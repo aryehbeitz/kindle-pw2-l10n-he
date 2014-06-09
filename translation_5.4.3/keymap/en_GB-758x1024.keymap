@@ -5,6 +5,7 @@
     "candidate_border" : 5,
     "candidate_separation" : 25,
     "candidate_height" : 49,
+    "candidate_list_can_expand" : true,
 
     "keyboard_height" : 303,
     "keyboard_x_gap" : 4,
@@ -29,16 +30,30 @@
                     "y": 222 
                 },
                 {
-                    "width": 426,
-                    "label": "space",
-                    "value": " ",
+                    "width": 71,
+                    "label": ".",
+                    "value": ".",
                     "x": 130,
                     "y": 222 
                 },
                 {
+                    "width": 284,
+                    "label": "空格",
+                    "value": " ",
+                    "x": 201,
+                    "y": 222 
+                },
+                {
                     "width": 71,
-                    "label": ".",
-                    "value": ".",
+                    "label": ",",
+                    "value": ",",
+                    "x": 485,
+                    "y": 222 
+                },
+                {
+                    "width": 71,
+                    "label": "。",
+                    "value": "。",
                     "x": 556,
                     "y": 222 
                 },
@@ -75,16 +90,30 @@
                     "y": 222 
                 },
                 {
-                    "width": 355,
-                    "label": "space",
-                    "value": " ",
+                    "width": 71,
+                    "label": ".",
+                    "value": ".",
                     "x": 201,
                     "y": 222 
                 },
                 {
+                    "width": 213,
+                    "label": "空格",
+                    "value": " ",
+                    "x": 272,
+                    "y": 222 
+                },
+                {
                     "width": 71,
-                    "label": ".",
-                    "value": ".",
+                    "label": ",",
+                    "value": ",",
+                    "x": 485,
+                    "y": 222 
+                },
+                {
+                    "width": 71,
+                    "label": "。",
+                    "value": "。",
                     "x": 556,
                     "y": 222 
                 },
@@ -114,7 +143,7 @@
                 },
                 {
                     "width": 426,
-                    "label": "space",
+                    "label": "空格",
                     "value": " ",
                     "x": 130,
                     "y": 222 
@@ -160,7 +189,7 @@
                 },
                 {
                     "width": 355,
-                    "label": "space",
+                    "label": "空格",
                     "value": " ",
                     "x": 201,
                     "y": 222 
@@ -240,7 +269,7 @@
                     "label": "i",
                     "value": "i",
                     "x": 521,
-                    "y": 9 
+                    "y": 9
                 },
                 {
                     "hold" : 6,
@@ -259,57 +288,64 @@
                     "hold" : 1,
                     "label": "a",
                     "value": "a",
-                    "x": 59,
+                    "x": 24,
                     "y": 80 
                 },
                 {
                     "hold" : 7,
                     "label": "s",
                     "value": "s",
-                    "x": 130,
+                    "x": 95,
                     "y": 80 
                 },
                 {
                     "hold": 10,
                     "label": "d",
                     "value": "d",
-                    "x": 201,
+                    "x": 166,
                     "y": 80 
                 },
                 {
                     "label": "f",
                     "value": "f",
-                    "x": 272,
+                    "x": 237,
                     "y": 80 
                 },
                 {
                     "label": "g",
                     "value": "g",
-                    "x": 343,
+                    "x": 308,
                     "y": 80 
                 },
                 {
                     "label": "h",
                     "value": "h",
-                    "x": 414,
+                    "x": 379,
                     "y": 80 
                 },
                 {
                     "label": "j",
                     "value": "j",
-                    "x": 485,
+                    "x": 450,
                     "y": 80 
                 },
                 {
                     "label": "k",
                     "value": "k",
-                    "x": 556,
+                    "x": 521,
                     "y": 80 
                 },
                 {
                     "label": "l",
                     "value": "l",
-                    "x": 627,
+                    "x": 592,
+                    "y": 80 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ":",
+                    "value": ":",
+                    "x": 663,
                     "y": 80 
                 },
                 {
@@ -451,57 +487,64 @@
                     "hold" : 101,
                     "label": "A",
                     "value": "A",
-                    "x": 59,
+                    "x": 24,
                     "y": 80 
                 },
                 {
                     "hold" : 107,
                     "label": "S",
                     "value": "S",
-                    "x": 130,
+                    "x": 95,
                     "y": 80 
                 },
                 {
                     "hold": 110,
                     "label": "D",
                     "value": "D",
-                    "x": 201,
+                    "x": 166,
                     "y": 80 
                 },
                 {
                     "label": "F",
                     "value": "F",
-                    "x": 272,
+                    "x": 237,
                     "y": 80 
                 },
                 {
                     "label": "G",
                     "value": "G",
-                    "x": 343,
+                    "x": 308,
                     "y": 80 
                 },
                 {
                     "label": "H",
                     "value": "H",
-                    "x": 414,
+                    "x": 379,
                     "y": 80 
                 },
                 {
                     "label": "J",
                     "value": "J",
-                    "x": 485,
+                    "x": 450,
                     "y": 80 
                 },
                 {
                     "label": "K",
                     "value": "K",
-                    "x": 556,
+                    "x": 521,
                     "y": 80 
                 },
                 {
                     "label": "L",
                     "value": "L",
-                    "x": 627,
+                    "x": 592,
+                    "y": 80 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ":",
+                    "value": ":",
+                    "x": 663,
                     "y": 80 
                 },
                 {
@@ -661,37 +704,34 @@
                     "y": 9 
                 },
                 {
-                    "label": "£",
-                    "value": "£",
+                    "label": "、",
+                    "value": "、",
                     "x": 59,
-                    "y": 80 
-                },
-                {
-                    "modifier" : 1,
-                    "label": "&",
-                    "value": "&",
-                    "x": 130,
                     "y": 80 
                 },
                 {
                     "modifier" : 1,
                     "label": "(",
                     "value": "(",
-                    "x": 201,
+                    "x": 130,
                     "y": 80 
                 },
                 {
                     "modifier" : 1,
                     "label": ")",
                     "value": ")",
+                    "x": 201,
+                    "y": 80 
+                },
+                {
+                    "label": "“",
+                    "value": "“",
                     "x": 272,
                     "y": 80 
                 },
                 {
-                    "modifier" : 1,
-                    "hold": 200,
-                    "label": "\"",
-                    "value": "\"",
+                    "label": "”",
+                    "value": "”",
                     "x": 343,
                     "y": 80 
                 },
@@ -723,10 +763,17 @@
                 },
                 {
                     "modifier" : 1,
+                    "label": "&",
+                    "value": "&",
+                    "x" : 130,
+                    "y" : 151
+                },
+                {
+                    "modifier" : 1,
                     "hold": 201,
                     "label": "!",
                     "value": "!",
-                    "x": 201,
+                    "x": 272,
                     "y": 151 
                 },
                 {
@@ -734,31 +781,24 @@
                     "hold": 202,
                     "label": "?",
                     "value": "?",
-                    "x": 272,
+                    "x": 343,
                     "y": 151 
                 },
                 {
-                    "modifier" : 1,
-                    "label": ":",
-                    "value": ":",
-                    "x": 343,
+                    "label": "⟪",
+                    "value": "⟪",
+                    "x": 414,
+                    "y": 151 
+                },
+                {
+                    "label": "⟫",
+                    "value": "⟫",
+                    "x": 485,
                     "y": 151 
                 },
                 {
                     "label": ";",
                     "value": ";",
-                    "x": 414,
-                    "y": 151 
-                },
-                {
-                    "label": ",",
-                    "value": ",",
-                    "x": 485,
-                    "y": 151 
-                },
-                {
-                    "label": "…",
-                    "value": "…",
                     "x": 556,
                     "y": 151 
                 },
@@ -784,7 +824,7 @@
                     "modifier" : 1,
                     "label": "@",
                     "value": "@",
-                    "x": 130,
+                    "x": 201,
                     "y": 151 
                 },
                 {
@@ -806,7 +846,7 @@
                 {
                     "label": "÷",
                     "value": "÷",
-                    "x": 130,
+                    "x": 201,
                     "y": 151 
                 },
                 {
@@ -866,16 +906,14 @@
                     "y": 9 
                 },
                 {
-                    "modifier" : 1,
-                    "label": "{",
-                    "value": "{",
+                    "label": "【",
+                    "value": "【",
                     "x": 450,
                     "y": 9 
                 },
                 {
-                    "modifier" : 1,
-                    "label": "}",
-                    "value": "}",
+                    "label": "】",
+                    "value": "】",
                     "x": 521,
                     "y": 9 
                 },
@@ -905,31 +943,31 @@
                     "y": 80 
                 },
                 {
-                    "label": "¬",
-                    "value": "¬",
+                    "label": "…",
+                    "value": "…",
                     "x": 201,
-                    "y": 80 
+                    "y": 80
                 },
                 {
-                    "label": "`",
-                    "value": "`",
+                    "label": "—",
+                    "value": "—",
                     "x": 272,
-                    "y": 80 
-                },
-                {
-                    "hold": 205,
-                    "label": "<",
-                    "value": "<",
-                    "x": 343,
-                    "y": 80 
+                    "y": 80
                 },
                 {
                     "modifier" : 1,
                     "hold": 204,
                     "label": ">",
                     "value": ">",
+                    "x": 343,
+                    "y": 80
+                },
+                {
+                    "hold": 205,
+                    "label": "<",
+                    "value": "<",
                     "x": 414,
-                    "y": 80 
+                    "y": 80
                 },
                 {
                     "modifier" : 1,
@@ -973,33 +1011,34 @@
                     "y": 151 
                 },
                 {
-                    "label": "§",
-                    "value": "§",
-                    "x": 272,
-                    "y": 151 
-                },
-                {
                     "label": "¢",
                     "value": "¢",
-                    "x": 343,
-                    "y": 151 
-                },
-                {
-                    "label": "¥",
-                    "value": "¥",
-                    "x": 414,
-                    "y": 151 
-                },
-                {
-                    "label": "€",
-                    "value": "€",
-                    "x": 485,
+                    "x": 272,
                     "y": 151 
                 },
                 {
                     "modifier" : 1,
                     "label": "$",
                     "value": "$",
+                    "x": 343,
+                    "y": 151 
+                },
+
+                {
+                    "label": "€",
+                    "value": "€",
+                    "x": 414,
+                    "y": 151 
+                },
+                {
+                    "label": "£",
+                    "value": "£",
+                    "x": 485,
+                    "y": 151 
+                },
+                {
+                    "label": "¥",
+                    "value": "¥",
                     "x": 556,
                     "y": 151 
                 },
@@ -1045,8 +1084,8 @@
                 {
                     "hold" : 300,
                     "width": 99,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 329,
                     "y": 222 
                 },
@@ -1114,8 +1153,8 @@
                 {
                     "hold" : 300,
                     "width": 86,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 371,
                     "y": 222 
                 },
@@ -1175,8 +1214,8 @@
                 {
                     "hold" : 300,
                     "width": 99,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 329,
                     "y": 222 
                 },
@@ -1244,8 +1283,8 @@
                 {
                     "hold" : 300,
                     "width": 86,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 371,
                     "y": 222 
                 },
@@ -2311,7 +2350,7 @@
                 {
                     "label": ".org",
                     "value": ".org",
-                    "x": 38,
+                    "x": 31,
                     "y": -50 
                 },
                 {
@@ -2339,15 +2378,14 @@
                     "y": -50 
                 },
                 {
-                    "label": ".com",
-                    "value": ".com",
+                    "label": ".cn",
+                    "value": ".cn",
                     "x": 528,
                     "y": -50 
                 },
                 {
-                    "width" : 114,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 627,
                     "y": -50 
                 }

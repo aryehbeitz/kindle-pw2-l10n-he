@@ -2,10 +2,13 @@
 
 . config
 
-dest=install/opt/amazon/kug/en-GB
-[ -d "$dest" ] || mkdir -p "$dest"
-rm -f "$dest"/*
-cp -f translation_$VERSION/kug/Kindle_Users_Guide.azw3 "$dest"/
+if [ "$INSTALLKUG" == yes ]
+then
+    dest=install/opt/amazon/kug/en-GB
+    [ -d "$dest" ] || mkdir -p "$dest"
+    rm -f "$dest"/*
+    cp -f translation_$VERSION/kug/Kindle_Users_Guide.azw3 "$dest"/
+fi
 
 dest=install/opt/keymap
 [ -d "$dest" ] || mkdir -p "$dest"
