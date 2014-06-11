@@ -3,7 +3,7 @@ Another page with the same URL is already bookmarked.<br><br>Do you wish to over
 Article Mode	
 BBC News	
 Bookmark this Page	
-Bookmarks	
+Bookmarks	סימניות
 Browser Settings	
 Clear Cookies	
 Clear History	
@@ -29,7 +29,7 @@ Invalid Protocol
 Registration Required	
 Remove a Bookmark	
 Search	
-Settings	
+Settings	הגדרות
 Sorry, access to Whispernet is blocked.	
 Sorry, application is invalid.	
 Sorry, roaming is not allowed.	

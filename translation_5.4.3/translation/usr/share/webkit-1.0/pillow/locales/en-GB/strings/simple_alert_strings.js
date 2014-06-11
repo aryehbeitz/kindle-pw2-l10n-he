@@ -5,8 +5,8 @@ An unexpected error has occurred. This can happen if you recently disconnected y
 An update is available for the following fonts: ({language}). Your Kindle must restart to complete the update.	
 Application Error	
 Battery Level is Low	
-Cancel	
-Close	
+Cancel	בטל#or#ביטול
+Close	סגור
 Cloud Locked	
 Debugging Scripts	
 Details for this Special Offer are no longer available. Turn on wireless to receive the latest content.	
@@ -24,7 +24,7 @@ Goodreads on Kindle Locked
 Java Heap Low	
 Kindle Special Offers	
 Kindle Store Locked	
-Low Memory	
+Low Memory	זכרון נמוך
 MP3 Player Locked	
 No MP3 Files Found	
 OK	

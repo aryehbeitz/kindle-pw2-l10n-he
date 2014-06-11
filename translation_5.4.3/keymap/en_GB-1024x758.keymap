@@ -404,14 +404,6 @@
                     "value": "ץ",
                     "x" : 901,
                     "y" : 151 
-                },
-                {
-                    "width" : 145,
-                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
-                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
-                    "value": "!!back",
-                    "x" : 852,
-                    "y" : 151 
                 }
             ] 
         },

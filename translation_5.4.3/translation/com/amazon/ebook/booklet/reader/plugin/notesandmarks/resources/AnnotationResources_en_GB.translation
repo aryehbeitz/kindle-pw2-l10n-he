@@ -1,31 +1,31 @@
 All Notes & Marks ({0,number,integer})	
-All	
-Bookmarks	
-Delete	
-Edit	
-Go To	
-Go to Location	
-Go	
-Highlights	
+All	הכל
+Bookmarks	סימניות
+Delete	מחק
+Edit	ערוך
+Go To	עבור אל
+Go to Location	עבור אל מיקום
+Go	סע
+Highlights	סימונים
 Items {0,number,integer} of {1,number,integer}	
 Items {0,number,integer}-{1,number,integer} of {2,number,integer}	
 Note {0}	
 Notes & Marks ({0,number,integer}) ·	
-Notes & Marks	
-Notes	
+Notes & Marks	הערות ומימונים
+Notes	הערות
 Popular Highlights ({0,number,integer})	
-Popular Highlights	
+Popular Highlights	הערות פופולאריות
 Public Notes ({0,number,integer})	
 Public Notes from {0}.	
-Public Notes	
-Show	
-Show...	
-View Notes & Marks	
+Public Notes	הערות ציבור
+Show	הצג
+Show...	הצג...
+View Notes & Marks	הצד הערות וסימונים
 Your Bookmarks ({0,number,integer})	
 Your Highlights ({0,number,integer})	
 Your Notes & Marks ({0,number,integer})	
 Your Notes ({0,number,integer})	
-Yours	
+Yours	שלך
 {0,number,integer} of {1,number,integer}	
 {0} highlighted this passage.	
 {0} · Page {1} - {2}	

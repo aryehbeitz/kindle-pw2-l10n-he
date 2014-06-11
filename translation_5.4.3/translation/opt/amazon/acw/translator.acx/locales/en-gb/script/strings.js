@@ -33,7 +33,7 @@ Translating your selection...
 Translation	
 Turkish	
 Turn Off Aeroplane Mode	
-Turn On Wireless	
+Turn On Wireless	הפעל אלחוטי
 Ukrainian	
 Unable to contact the server. Please try again later.	
 Unknown	

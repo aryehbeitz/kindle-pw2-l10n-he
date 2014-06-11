@@ -1,13 +1,13 @@
 Authors starting with:	
-Cancel	
+Cancel	בטל#or#ביטול
 Cloud and All Devices	
 Device Time	
-Go To	
-Go	
+Go To	עבור#or#עבור אל
+Go	סע
 Hint	
 Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	
 Remove Sample From	
-Remove This Sample	
+Remove This Sample	מחק דוגמית זו
 Remove	
 Removing a sample from the Cloud will also remove it from all devices.	
 Select Child	

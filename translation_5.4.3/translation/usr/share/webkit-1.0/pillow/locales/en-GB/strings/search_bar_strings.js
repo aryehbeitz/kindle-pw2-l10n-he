@@ -1,4 +1,4 @@
-Go	
+Go	סע
 My Items	
 Search	
 http://baike.baidu.com/search/word?&pic=1&enc=utf8&word=	

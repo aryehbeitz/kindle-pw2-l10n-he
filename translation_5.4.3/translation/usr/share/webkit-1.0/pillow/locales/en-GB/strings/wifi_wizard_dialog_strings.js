@@ -3,7 +3,7 @@ Advanced
 Are you sure you want to forget the Wi-Fi network "{essid}"?	
 Available Networks	
 CA Certificate	
-Cancel	
+Cancel	בטל#or#ביטול
 Connect	
 Connected	
 Connecting	
@@ -23,7 +23,7 @@ Forget Network?
 Forget	
 Hide Password	
 IP Address	
-Incorrect Password	
+Incorrect Password	סיסמא שגוייה
 MSCHAPv2	
 Network Name Too Long	
 Network Name	

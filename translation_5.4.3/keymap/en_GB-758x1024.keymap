@@ -2,7 +2,7 @@
     "keyboard_language" : "en-GB",
 
     "candidate_font" : "Futura 11",
-    "candidate_border" : 5,
+    "candidate_border" : 5,'
     "candidate_separation" : 25,
     "candidate_height" : 49,
     "candidate_list_can_expand" : true,
@@ -38,7 +38,7 @@
                 },
                 {
                     "width": 284,
-                    "label": "空格",
+                    "label": "רווח",
                     "value": " ",
                     "x": 201,
                     "y": 222 
@@ -98,7 +98,7 @@
                 },
                 {
                     "width": 213,
-                    "label": "空格",
+                    "label": "רווח",
                     "value": " ",
                     "x": 272,
                     "y": 222 
@@ -143,7 +143,7 @@
                 },
                 {
                     "width": 426,
-                    "label": "空格",
+                    "label": "רווח",
                     "value": " ",
                     "x": 130,
                     "y": 222 
@@ -189,7 +189,7 @@
                 },
                 {
                     "width": 355,
-                    "label": "空格",
+                    "label": "רווח",
                     "value": " ",
                     "x": 201,
                     "y": 222 
@@ -220,136 +220,130 @@
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "q",
-                    "value": "q",
+                    "label": "ק",
+                    "value": "ק",
                     "x": 24,
                     "y": 9 
                 },
                 {
-                    "label": "w",
-                    "value": "w",
+                    "label": "ר",
+                    "value": "ר",
                     "x": 95,
                     "y": 9 
                 },
                 {
                     "hold" : 3,
-                    "label": "e",
-                    "value": "e",
+                    "label": "א",
+                    "value": "א",
                     "x": 166,
                     "y": 9 
                 },
                 {
-                    "label": "r",
-                    "value": "r",
+                    "label": "ט",
+                    "value": "ט",
                     "x": 237,
                     "y": 9 
                 },
                 {
-                    "label": "t",
-                    "value": "t",
+                    "label": "ו",
+                    "value": "ו",
                     "x": 308,
                     "y": 9 
                 },
                 {
                     "hold" : 9,
-                    "label": "y",
-                    "value": "y",
+                    "label": "ן",
+                    "value": "ן",
                     "x": 379,
                     "y": 9 
                 },
                 {
                     "hold" : 8,
-                    "label": "u",
-                    "value": "u",
+                    "label": "ם",
+                    "value": "ם",
                     "x": 450,
                     "y": 9 
                 },
                 {
                     "hold" : 4,
-                    "label": "i",
-                    "value": "i",
+                    "label": "פ",
+                    "value": "פ",
                     "x": 521,
                     "y": 9
                 },
-                {
-                    "hold" : 6,
-                    "label": "o",
-                    "value": "o",
+{
+                    "width": 142,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
                     "x": 592,
                     "y": 9 
                 },
                 {
-                    "label": "p",
-                    "value": "p",
-                    "x": 663,
-                    "y": 9 
-                },
-                {
                     "hold" : 1,
-                    "label": "a",
-                    "value": "a",
+                    "label": "ש",
+                    "value": "ש",
                     "x": 24,
                     "y": 80 
                 },
                 {
                     "hold" : 7,
-                    "label": "s",
-                    "value": "s",
+                    "label": "ד",
+                    "value": "ד",
                     "x": 95,
                     "y": 80 
                 },
                 {
                     "hold": 10,
-                    "label": "d",
-                    "value": "d",
+                    "label": "ג",
+                    "value": "ג",
                     "x": 166,
                     "y": 80 
                 },
                 {
-                    "label": "f",
-                    "value": "f",
+                    "label": "כ",
+                    "value": "כ",
                     "x": 237,
                     "y": 80 
                 },
                 {
-                    "label": "g",
-                    "value": "g",
+                    "label": "ע",
+                    "value": "ע",
                     "x": 308,
                     "y": 80 
                 },
                 {
-                    "label": "h",
-                    "value": "h",
+                    "label": "י",
+                    "value": "י",
                     "x": 379,
                     "y": 80 
                 },
                 {
-                    "label": "j",
-                    "value": "j",
+                    "label": "ח",
+                    "value": "ח",
                     "x": 450,
                     "y": 80 
                 },
                 {
-                    "label": "k",
-                    "value": "k",
+                    "label": "ל",
+                    "value": "ל",
                     "x": 521,
                     "y": 80 
                 },
                 {
-                    "label": "l",
-                    "value": "l",
+                    "label": "ך",
+                    "value": "ך",
                     "x": 592,
                     "y": 80 
                 },
                 {
-                    "modifier" : 1,
-                    "label": ":",
-                    "value": ":",
+                    "label": "ף",
+                    "value": "ף",
                     "x": 663,
                     "y": 80 
                 },
                 {
-                    "width": 106,
+                    "width": 71,
                     "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
                     "value": "!!shift",
@@ -357,55 +351,59 @@
                     "y": 151 
                 },
                 {
-                    "label": "z",
-                    "value": "z",
-                    "x": 130,
+                    "label": "ז",
+                    "value": "ז",
+                    "x": 95,
                     "y": 151 
                 },
                 {
-                    "label": "x",
-                    "value": "x",
-                    "x": 201,
+                    "label": "ס",
+                    "value": "ס",
+                    "x": 166,
                     "y": 151 
                 },
                 {
                     "hold" : 2,
-                    "label": "c",
-                    "value": "c",
-                    "x": 272,
+                    "label": "ב",
+                    "value": "ב",
+                    "x": 237,
                     "y": 151 
                 },
                 {
-                    "label": "v",
-                    "value": "v",
-                    "x": 343,
+                    "label": "ה",
+                    "value": "ה",
+                    "x": 308,
                     "y": 151 
                 },
                 {
-                    "label": "b",
-                    "value": "b",
-                    "x": 414,
+                    "label": "נ",
+                    "value": "נ",
+                    "x": 379,
                     "y": 151 
                 },
                 {
                     "hold" : 5,
-                    "label": "n",
-                    "value": "n",
-                    "x": 485,
+                    "label": "מ",
+                    "value": "מ",
+                    "x": 450,
                     "y": 151 
                 },
                 {
-                    "label": "m",
-                    "value": "m",
-                    "x": 556,
+                    "label": "צ",
+                    "value": "צ",
+                    "x": 521,
                     "y": 151 
                 },
                 {
-                    "width": 107,
-                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
-                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
-                    "value": "!!back",
-                    "x": 627,
+                    "label": "ת",
+                    "value": "ת",
+                    "x": 592,
+                    "y": 151 
+                },
+                {
+                    "label": "ץ",
+                    "value": "ץ",
+                    "x": 663,
                     "y": 151 
                 }
             ] 

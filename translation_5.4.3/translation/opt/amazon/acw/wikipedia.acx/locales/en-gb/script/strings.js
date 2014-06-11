@@ -8,7 +8,7 @@ Open Wikipedia ▶
 Search Google ▶	
 Searching Wikipedia...	
 Turn Off Aeroplane Mode	
-Turn On Wireless	
+Turn On Wireless	הפעל אלחוטי
 Unable to contact the server. Please try again later.	
 Waiting for connection...	
 Wikipedia lookups are not available when using FreeTime.	

@@ -1,8 +1,8 @@
 (cont.)	
-All	
+All	הכל
 Artists	
 Book	
-Chapter	
+Chapter	פרק
 Creatures	
 Current Chapter	
 Current Page	
@@ -11,7 +11,7 @@ Entire Book
 Equations	
 Events	
 Full Wikipedia Article	
-Highlights	
+Highlights	סימונים
 Holidays	
 Hotels	
 Ingredients	
@@ -19,7 +19,7 @@ Location ${location}
 Locations ${start} - ${end}	
 Monsters	
 More on Shelfari	
-More	
+More	עוד
 Organisations	
 Page ${page}	
 Page ${start} - ${end}	
