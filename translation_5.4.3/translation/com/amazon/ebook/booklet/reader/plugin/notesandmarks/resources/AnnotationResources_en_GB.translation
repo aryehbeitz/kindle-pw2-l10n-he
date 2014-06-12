@@ -13,21 +13,21 @@ Note {0}
 Notes & Marks ({0,number,integer}) ·	
 Notes & Marks	הערות ומימונים
 Notes	הערות
-Popular Highlights ({0,number,integer})	
+Popular Highlights ({0,number,integer})	({0,number,integer}) הערות פופולאריות
 Popular Highlights	הערות פופולאריות
-Public Notes ({0,number,integer})	
-Public Notes from {0}.	
-Public Notes	הערות ציבור
+Public Notes ({0,number,integer})	({0,number,integer}) הערות ציבוריות
+Public Notes from {0}.	הערות ציבוריות מ {0}.
+Public Notes	הערות ציבוריות
 Show	הצג
 Show...	הצג...
 View Notes & Marks	הצד הערות וסימונים
-Your Bookmarks ({0,number,integer})	
-Your Highlights ({0,number,integer})	
-Your Notes & Marks ({0,number,integer})	
-Your Notes ({0,number,integer})	
+Your Bookmarks ({0,number,integer})	הסימניות שלך ({0,number,integer})
+Your Highlights ({0,number,integer})	הסימונים שלך ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	הערות וסימונים שלך ({0,number,integer})
+Your Notes ({0,number,integer})	הערות שלך ({0,number,integer})
 Yours	שלך
-{0,number,integer} of {1,number,integer}	
-{0} highlighted this passage.	
-{0} · Page {1} - {2}	
-{0}’s Highlight	
-{0}’s Note	
+{0,number,integer} of {1,number,integer}	{0,number,integer} מתוך {1,number,integer}
+{0} highlighted this passage.	{0} סימנו את הקטע הזה.
+{0} · Page {1} - {2}	{0} · עמוד {1} - {2}	
+{0}’s Highlight	הערות של {0}
+{0}’s Note	הערה של {0}
