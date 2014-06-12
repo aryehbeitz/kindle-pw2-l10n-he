@@ -1,2 +1,2 @@
-Buy ▶	
-Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}	
+Buy ▶	רכוש ▶
+Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}	קריאה לזמן חופשי שנותר: {0,plural,=0 {נגמר} one {פחות מדקה} other {{0,number,integer} דקות}}
