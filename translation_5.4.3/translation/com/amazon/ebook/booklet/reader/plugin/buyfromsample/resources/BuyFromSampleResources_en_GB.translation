@@ -5,7 +5,7 @@ Downloading - {0,number,percent}	מוריד - {0,number,percent}
 Downloading	מוריד
 Network connection required. Tap here to connect.	נדרש חיבור לאינטרנט. לחץ כאן להתחבר.
 Problem Cancelling Purchase	תקלה בביטול הרכישה
-Purchase Cancelled  רכישה בוטלה
+Purchase Cancelled  הרכישה בוטלה
 Thank you for your purchase	תודה על רכישתך
 There was a problem cancelling your purchase. To check the status of your purchase, go to {0}.	הייתה תקלה לבטל הקנייה. לבדוק מצב הרכישה, עבור אל {0}.
 Your purchase has been cancelled. To view the status of your orders, go to {0}.	העסקה בוטלה. לבדוק המצב ההזמנות שלך, עבור ל {0}.
