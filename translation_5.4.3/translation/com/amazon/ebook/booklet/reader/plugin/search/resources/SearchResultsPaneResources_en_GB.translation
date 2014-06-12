@@ -1,8 +1,8 @@
-Go To	עבור#or#עבור אל
-Location {0} · Page {1}	
-Location {0}	
-Search Results ({0,number,integer})	
-Search failed.	
-Searching…	
-Title not yet indexed.	
-{0,number,integer} of {1,number,integer}	
+Go To עבור אל
+Location {0} · Page {1} מיקום {0}  · עמוד {1}
+Location {0}  מיקום {0}
+Search Results ({0,number,integer}) ({0,number,integer}) תוצאות חיפוש	
+Search failed.  חיפוש נכשל.
+Searching…	מחפש…
+Title not yet indexed.	ספר עדיין לא באינדקס.
+{0,number,integer} of {1,number,integer}	{0,number,integer} מתוך {1,number,integer}
