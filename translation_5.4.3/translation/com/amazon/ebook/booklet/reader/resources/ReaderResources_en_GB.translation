@@ -1,67 +1,67 @@
 Add Note	הוסף הערה
-Already at furthest read location.	בר נמאים במקום קריאה המתקדם
+Already at furthest read location.	כבר נמצאים במקום קריאה המתקדם
 Beginning	התחלה
 Book Description	תיאור ספר
 Buy This Book Now	רכוש ספר זה עכשיו
 Cancel	בטל
 Close	סגור
-Contrast	נגדיות
-Cover	דף ראשי
+Contrast  ניגודיות
+Cover שער
 Darkest	הכי כהה
 Delete Note	מחק הערה
 Delete	מחק
-Edit Note	עבוך הערה
+Edit Note ערוך הערה
 End	סוף
-Enter a location ({0} - {1})	
-Enter a page (1 - {0}) or location ({1} - {2})	
-Enter a page (1 - {0})	
-Enter a page ({0}) or location ({1} - {2})	
-Enter a page ({0})	
-Enter a page or location ({1} - {2})	
-Enter a page	הכנס מספר עמוד
-Enter password: 	הכנס סיסמא:
-Fonts	גופנים
+Enter a location ({0} - {1})	הזן מיקום ({0} - {1})
+Enter a page (1 - {0}) or location ({1} - {2})	הזן עמוד (1 - {0}) או מיקום ({1} - {2})
+Enter a page (1 - {0})	הזן עמוד (1 - {0})
+Enter a page ({0}) or location ({1} - {2})	הזן עמוד ({0}) או מיקום ({1} - {2})
+Enter a page ({0})	הזן עמוד ({0})
+Enter a page or location ({1} - {2})	הזן עמוד או מיקום ({1} - {2})
+Enter a page  הזן עמוד
+Enter password: הזן סיסמא
+Fonts גופנים
 Go To	עבור אל
 Go to Page or Location	עבור אל עמוד או מיקום
 Go to...	עבור אל...
 Highlight	סמן
 Incorrect Password	סיסמא שגוייה
-Incorrect password. Please try again.	סוסמא סגוייה, נסה שוב
+Incorrect password. Please try again. סוסמא סגוייה, אנא נסה שוב
 Lightest	הכי כהה
 Line spacing	מרווח שורות
-Loc {0} of {1}	
-Loc {0}	
+Loc {0} of {1}	מיקום {0} מתוך {1}
+Loc {0}	מיקום {0}
 Location	מיקום
-Lock Rotation	
+Lock Rotation	נעילת סיבוב
 Low Memory	זכרון נמוך
-Margins	מרווחי עמוד
+Margins	שוליים
 More Options	עוד הגדרות
 More	עוד
 Normal	רגיל
 Note	הערה
-PDF Display Settings	
+PDF Display Settings	הגדרות תצוגת PDF
 Page 	עמוד
-Page or Location	עמוד או מיקו
-Page {0} of {1}	
-Page {0}	
-Password-Protected	דמור על ידי סיסמא
+Page or Location	עמוד או מיקום
+Page {0} of {1}	עמוד {0} מיתוך {1}
+Page {0}	עמוד {0}
+Password-Protected  מוגן בסיסמא
 Publisher Font	גופן המוציר לאור
-Retrieving furthest page read...	מקבל עמוד האחרון
+Retrieving furthest page read...  שולף הדף הרחוק ביותר שקראת ...
 Save	שמור
 Settings	הגדרות
-Share	שטף
+Share	שתף
 Shared Notes & Highlights	הערות וסימונים משותפים
 Shop in Kindle Store	לחנות קינדל
 Submit	שלח
-Sync Results	
-Sync to Furthest Page Read	
-Sync	
+Sync Results	סינכרון תוצאות
+Sync to Furthest Page Read	סנכרון לדף הרחוק ביותר שקראת
+Sync	סנכרון
 Table of Contents	תוכן העניינים
 Table of Contents...	תוכן העניינים...
-There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
-This PDF is password-protected.	הקובץ PDF מוגן על ידי סיסמא
-To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	
-Unable to Sync	
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	אין זיכרון הקינדל מספיק כדי להוסיף או לערוך הערות או סימנים על מסמך זה. בבקשה לעשות יותר זיכרון הקינדל זמין על ידי הסרת תוכן מהמסך הבית.
+This PDF is password-protected. PDF זה מוגן בסיסמא.
+To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	כדי לסנכרן להדף הרחוקה, גיבוי ההערות חייב להיות מופעל. עבור להגדרות מהתפריט במסך הבית, בחר אפשרויות הקראה, ולאחר מכן גיבוי ההערות.
+Unable to Sync  לא ניתן לסנכרן
 Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	
 Unlock Rotation	
 View Note	הצג הערה
