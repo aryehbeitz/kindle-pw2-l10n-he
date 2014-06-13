@@ -85,6 +85,6 @@ darkest	הכי כהה
 default	ברירת מחדל
 lighter	יותר בהיר
 lightest	הכי ההיר
-on {7,date,long}	
+on {7,date,long}	ב {7,date,long}
 today	היום
 yesterday	אתמול
