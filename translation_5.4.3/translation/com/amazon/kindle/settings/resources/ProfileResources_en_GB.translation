@@ -1,21 +1,21 @@
-Access Achievements	
-Add Items	
+Access Achievements גישה להישגים	
+Add Items	הוסף פריטים
 All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	
-All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?	
-Cancel	בטל#or#ביטול
-Daily Reading Goal	
-Date of Birth	
-Delete Profile	
+All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device? כל ההתקדמות וההישגים ייאבדו עם מחיקה.הפרופיל גם לא יהיה זמין במכשירים אחרים. האם בטוחים למחוק את  {0, select, male {הפרופיל של <em>{1}</em> profile} female {<em>{1}ʼs</em> profile} other {הפרופיל של <em>{1}ʼ/em>}}?
+Cancel	בטל
+Daily Reading Goal יעד קריאה יומית	
+Date of Birth	תאריך לידה
+Delete Profile	מחק פרופיל
 Delete	מחק
-Finish	
-First Name	
-Gender	
-Ignore	
-Let your child see their Achievement Reports.	
-No Content	
-Set how many minutes your child should read for each day.	
-Unrestricted Access to Wikipedia	
-{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	
+Finish	סיים
+First Name	שם פרטי
+Gender	מים
+Ignore	התעלם
+Let your child see their Achievement Reports.	תנו לילדכם לראות את דוחות ההישג שלהם.
+No Content	ללא תוכן
+Set how many minutes your child should read for each day.	הגדר כמה דקות הילד שלך צריך לקרוא לכל יום.
+Unrestricted Access to Wikipedia	גישה בלתי מוגבלת לויקיפדיה
+{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {{0,number,integer} ספרים} one {{0,number,integer} ספר} other {{0,number,integer} ספרים}}
 {0, select, male {Boy} female {Girl} other {Boy}}	
-{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	
-{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	
+{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {עוד לא הוספת פריטים ל פריי-טיים של {1}.} female {עוד לא הוספת פריטים ל פריי-טיים של {1}.} other {עוד לא הוספת פריטים ל פריי-טיים של {1}.}}
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {הסיפריה של {1}} female {הסיפריה של {1}} other {הסיפריה של {1}}
