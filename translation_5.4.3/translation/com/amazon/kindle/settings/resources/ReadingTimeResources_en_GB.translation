@@ -1,10 +1,10 @@
-({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	
-Add New Profile	
-Add books from your library that are great for children. Parents can set reading goals and track progress while children earn badges and awards for reading. <ul>Learn More</ul>	
-Get Started	
-Get started in 4 steps:	
-Start	
-{0} {1, plural, =0 {({1, number, integer} books)} one {({1, number, integer} book)} other {({1, number, integer} books)} }	
-• Create a password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	
+({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	({0,plural,=0{{1} ספרים} one {{1} ספר} other {{1} ספרים}})
+Add New Profile	הוסף פרופיל חדשה
+Add books from your library that are great for children. Parents can set reading goals and track progress while children earn badges and awards for reading. <ul>Learn More</ul>	הוסף ספרים מהספרייה שלך שהם נהדרים לילדים. הורים יכולים להגדיר את מטרות בקריא ולעקוב אחר התקדמות תוך שהילדים מרוויחים תגים ופרסים לקריאה. <ul> מידע נוסף </ ul>
+Get Started	להתחיל
+Get started in 4 steps:	להתחיל ב-4 שלבים:
+Start	התחל
+{0} {1, plural, =0 {({1, number, integer} books)} one {({1, number, integer} book)} other {({1, number, integer} books)} }	{0} {1, plural, =0 {({1, number, integer} ספרים)} one {({1, number, integer} ספר)} other {({1, number, integer} ספרים)} }
+• Create a password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	• יצירת סיסמא. ~ ~ • הוסף פרופיל. ~ ~ • מלא אותו עם ספרים. ~ ~ • קבעו יעד קריאה עבור ילדך.
 • Enter your password.~~• Add a profile.~~• Fill it up with books.~~• Set a reading goal for your child.	
- ({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	
+ ({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	• הזן את הסיסמה שלך. ~ ~ • הוסף פרופיל. ~ ~ • מלא אותו עם ספרים. ~ ~ • קבעו יעד קריאה עבור ילדך.
