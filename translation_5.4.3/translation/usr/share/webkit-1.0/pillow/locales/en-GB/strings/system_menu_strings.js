@@ -1,2 +1,2 @@
 Settings	הגדרות
-Shop in Kindle Store	לחנות קינדל#or#לקניות בחנות קינדל
+Shop in Kindle Store  לקנות בחנות קינדל
