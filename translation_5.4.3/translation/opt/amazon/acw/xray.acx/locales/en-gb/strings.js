@@ -1,4 +1,4 @@
-(cont.)	המשך...
+(cont.)	(המשך.)
 All	הכל
 Artists	אמנים
 Book	ספר
