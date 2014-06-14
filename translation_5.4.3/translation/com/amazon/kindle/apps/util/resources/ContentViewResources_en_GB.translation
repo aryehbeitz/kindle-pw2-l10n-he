@@ -1,27 +1,27 @@
-Active	
-Archived Items	
-Archived	
-Book	
-Collection	
+Active	פעיל
+Archived Items	פריטים בארכיון
+Archived	ארכיון
+Book	ספר
+Collection	אוסף
 Dev	
-Dictionaries	
-Dictionary	
-Expired	
-Expiring	
-Images	
-Keep	
-Letter	
-Magazine	
-Music	
-My Clippings	
-New	
-Newspaper	
-Notice	
-On Loan	
-Opening...	
-Periodical Back Issues	
-Personal	
-Receipt	
-Rental	
-Sample	
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	
+Dictionaries	מילונים
+Dictionary	מילון
+Expired	פג תוקף
+Expiring	עומד לפוג
+Images	תמונות
+Keep	לשמור
+Letter	מכתב
+Magazine	מגזין
+Music	מוזיקה
+My Clippings	הגזירים שלי
+New	חדש
+Newspaper	עיתון
+Notice	התראה
+On Loan	בהשאלה
+Opening...	פותח...
+Periodical Back Issues	ירחון קודמים
+Personal	אישי
+Receipt	קבלב
+Rental	השכרה
+Sample	מדגם
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים}}
