@@ -1,4 +1,4 @@
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Close	סגור
 Connection Required	
 Edit	ערוך

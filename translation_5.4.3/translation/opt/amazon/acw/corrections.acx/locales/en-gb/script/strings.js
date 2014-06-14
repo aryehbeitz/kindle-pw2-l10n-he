@@ -1,7 +1,7 @@
 A customer support specialist will look into this error. You will be able to view the status on your profile page on kindle.amazon.com the next time this device synchronises with Amazon.	
 A customer support specialist will look into this error.	
 Add Optional Comments.	
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Close	סגור
 Formatting	
 Image	
