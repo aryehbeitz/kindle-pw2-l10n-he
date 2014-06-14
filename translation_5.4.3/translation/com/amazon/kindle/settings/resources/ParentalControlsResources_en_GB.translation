@@ -1,5 +1,5 @@
-Change Password	החלף סיסמה
-Change your Parental Controls password.	החלף סיסמה לבקרת הורים
+Change Password	החלף סיסמא
+Change your Parental Controls password.	החלף סיסמא לבקרת הורים
 Parental Controls	בקרת הורים
 Restrictions	הגבלות
 {0, select, true {Create personalised profiles for your children. FreeTime automatically blocks access to the Experimental Web Browser, Kindle Store, Goodreads on Kindle, and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to the Experimental Web Browser, Kindle Store, and Wikipedia.}}	{0, select, true {צור פרופילים מותאמים אישית לילדים שלך. פריי-טיים באופן אוטומטי חוסם את הגישה לדפדפן אינטרנט ניסיוני, חנות קינדל, Goodreads בקינדל, וויקיפדיה.} other {צור פרופילים מותאמים אישית לילדים שלך. פריי-טיים באופן אוטומטי חוסם את הגישה לדפדפן אינטרנט ניסיוני, חנות קינדל וויקיפדיה.}
