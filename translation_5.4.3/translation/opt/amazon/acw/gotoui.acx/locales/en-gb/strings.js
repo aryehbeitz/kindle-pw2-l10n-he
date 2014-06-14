@@ -1,7 +1,7 @@
 Beginning	התחלה
-Cover Page	
+Cover Page	עמוד שער
 Cover	דף ראשי
 End	סוף
-Front Matter	
-Page or Location	עמוד או מיקו
-Table of Contents	תוכן העניינים
+Front Matter	ענייני תחילה
+Page or Location	עמוד או מיקום
+Table of Contents תוכן העניינים
