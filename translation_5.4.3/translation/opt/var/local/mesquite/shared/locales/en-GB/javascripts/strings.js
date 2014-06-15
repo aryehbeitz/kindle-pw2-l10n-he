@@ -6,7 +6,7 @@ Menu
 OK	
 Remove	
 Screen Light	אור מסך
-Shop in Kindle Store	לחנות קינדל#or#לקניות בחנות קינדל
+Shop in Kindle Store	לקניות בחנות קינדל
 Turn Off Wireless	כבה אלחוטי
 Turn On Wireless	הפעל אלחוטי
 Unable to Connect	

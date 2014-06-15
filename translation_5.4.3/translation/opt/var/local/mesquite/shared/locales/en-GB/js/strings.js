@@ -7,7 +7,7 @@ Menu
 OK	
 Register	
 Remove	
-Shop in Kindle Store	לחנות קינדל#or#לקניות בחנות קינדל
+Shop in Kindle Store	לקניות בחנות קינדל
 This action requires wireless to be turned on.	
 Turn Off Wireless	כבה אלחוטי
 Turn On Wireless	הפעל אלחוטי
