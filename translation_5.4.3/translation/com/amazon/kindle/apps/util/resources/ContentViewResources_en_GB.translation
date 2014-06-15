@@ -3,7 +3,7 @@ Archived Items	פריטים בארכיון
 Archived	ארכיון
 Book	ספר
 Collection	אוסף
-Dev	
+Dev	Dev
 Dictionaries	מילונים
 Dictionary	מילון
 Expired	פג תוקף
@@ -13,7 +13,7 @@ Keep	לשמור
 Letter	מכתב
 Magazine	מגזין
 Music	מוזיקה
-My Clippings	הגזירים שלי
+My Clippings	האוספים שלי
 New	חדש
 Newspaper	עיתון
 Notice	התראה
@@ -21,7 +21,7 @@ On Loan	בהשאלה
 Opening...	פותח...
 Periodical Back Issues	גיליון קודמים
 Personal	אישי
-Receipt	קבלב
+Receipt	קבלה
 Rental	השכרה
 Sample	מדגם
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים}}בךן
