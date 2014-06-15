@@ -1,6 +1,6 @@
 Amazon	אמזון
 Another page with the same URL is already bookmarked.<br><br>Do you wish to overwrite it?	דף נוסף עם אותה כתובת URL כבר סימניה. <br> <br> האם ברצונך להחליף אותו?
-Article Mode	מצב כתבה
+Article Mode	מצב מאמר
 BBC News	חדשות BBC
 Bookmark this Page	סימניה לדף זה
 Bookmarks	סימניות
