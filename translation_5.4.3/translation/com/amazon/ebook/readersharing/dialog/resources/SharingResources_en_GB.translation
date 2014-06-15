@@ -1,16 +1,16 @@
-A link to the book will be included with your message.	
-A link to the quote will be included with your message.	
-Also share on:	
-Connected	
-Error	
-Message is being shared.	
-Message is too long. Please shorten your message to share.	
-Please select a social network.	
-Share on:	
-Share	שטף
-The quote may be truncated to fit. A link to the book will be included with your message.	
-There was a problem sending your message. Please try again later.	
-Unable to retrieve your social network settings. Please try again later.	
-Updating settings...	
-Web Browser Locked	
-{0,select,facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}	
+A link to the book will be included with your message.	קישור לספר ייכלל עם המסר שלך.
+A link to the quote will be included with your message.	קישור לציטוט ייכלל עם המסר שלך.
+Also share on:	שתף גם ב:
+Connected	מחובר
+Error	שגיעה
+Message is being shared.	משתף ההודעה.
+Message is too long. Please shorten your message to share.	הודעה ארוכה מדי. אנא קצר את ההודעה שלך לשתף.
+Please select a social network.	אנא בחר ברשת חברתית.
+Share on:	שתף ב:
+Share	שתף
+The quote may be truncated to fit. A link to the book will be included with your message.	הציטוט עשוי להיות מקוצץ כדי להתאים.קישור לספר ייכלל עם המסר שלך.
+There was a problem sending your message. Please try again later.	הייתה בעיה בשליחה ההודעה. אנא נסה שוב מאוחר יותר.
+Unable to retrieve your social network settings. Please try again later.	לא ניתן לאחזר את הגדרות הרשת החברתיות שלך. אנא נסה שוב מאוחר יותר.
+Updating settings...	מעדכן הגדרות ...
+Web Browser Locked	דפדפן אינטרנט נעול
+{0,select,facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}	{0,select,facebook {טוען הגדרות פייסבוק...} twitter {טוען הגדרות Twitter...} weibo {טוען הגדרות Weibo...} other {טוען הגדרות...}}
