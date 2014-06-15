@@ -23,7 +23,7 @@ Forget Network?	ששכת רשת?
 Forget	תשכח
 Hide Password	הסתר סיסמא
 IP Address	כתובת IP
-Incorrect Password	סיסמא שגוייה
+Incorrect Password	סיסמא שגויה
 MSCHAPv2	MSCHAPv2
 Network Name Too Long	שם רשת ארוך מדי
 Network Name	שם רשת
