@@ -1,16 +1,16 @@
-Authors starting with:	
+Authors starting with:	מחברים שמתחילים עם:
 Cancel	בטל
-Cloud and All Devices	
-Device Time	
+Cloud and All Devices	ענן ואת כל התקנים
+Device Time	זמן המכשיר
 Go To	עבור אל
 Go	סע
-Hint	
-Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	
-Remove Sample From	
-Remove This Sample	מחק דוגמית זו
-Remove	
-Removing a sample from the Cloud will also remove it from all devices.	
-Select Child	
-Set Automatically	
-This Device	
-Titles starting with:	
+Hint	רמז
+Page number (1 to {0, choice, 0#1|1#{0,number,integer}}): עמוד מספר (1 עד {0, choice, 0#1|1#{0,number,integer}}):
+Remove Sample From  הסר מדגם מ
+Remove This Sampleהסר מדגם זה
+Remove	הסר
+Removing a sample from the Cloud will also remove it from all devices.	הסרת מדגם מהענן יסיר אותו מכל המכשירים.
+Select Child	בחר ילד
+Set Automatically	להגדיר באופן אוטומטי
+This Device	מכשיר זה
+Titles starting with:	כותרות שמתחילים עם:
