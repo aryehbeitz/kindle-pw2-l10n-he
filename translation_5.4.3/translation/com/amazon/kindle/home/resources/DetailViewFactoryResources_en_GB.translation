@@ -1,22 +1,22 @@
-About Vocabulary Builder	
+About Vocabulary Builder	אודות אוצר מילים
 Add To Home	הוסף לעמוד ראשי
-Add/Remove Items	
-Date: 	
+Add/Remove Items	הוסף/הסר פריטים
+Date: 	תאריך:
 Delete	מחק
-Edit Child Profiles	
-Edit Pronunciation	
-In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
-Learn more	
-Manage FreeTime Items	
-Narrator: 	
-On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
-Rename	
-Show Only in Collections View	
-Show in All Views	
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
-Turn Off FreeTime	
-Turn Off Vocabulary Builder	
-Unknown	
-View Achievements	
-{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	
-{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	
+Edit Child Profiles	ערוך פרופילים של ילדים
+Edit Pronunciation	עריכת הגייה
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	בענן: {0,plural,=0 {אין פריטים} one {{0,number,integer}פריט} other {{0,number,integer} פריטים} }
+Learn more	למידע נוסף
+Manage FreeTime Items	נהל פריטי פריי-טיים
+Narrator: קריין:	
+On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	במכשיר: {0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים} }
+Rename	שינוי שם
+Show Only in Collections View	הצג בתצוגת אוספים בלבד
+Show in All Views	הצג בכל התצוגות
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	סה"כ: {0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים} }
+Turn Off FreeTime	כבה פריי-טיים
+Turn Off Vocabulary Builder	כבה אוצר המילים
+Unknown	לא ידוע
+View Achievements	הצג הישיגים
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {לומד {0,number,integer} מילים} one {לומד {0,number,integer} מילה} other {לומד {0,number,integer} מילים} }
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {שולט ב {0,number,integer} מילים} one {שולט ב {0,number,integer} מילה} other {שולט ב {0,number,integer} מילים} }
