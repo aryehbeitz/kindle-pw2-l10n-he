@@ -1,80 +1,80 @@
-"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	
-"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	
-"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	
-"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.	
-"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	
-"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	
-About Kindle FreeTime	
-About Vocabulary Builder	
-Aeroplane Mode	
-Cancel Download	
+"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	"{0}" לא יכול להיות מועבר בגלל גודל הקובץ. ניתן או לבטל את ההורדה, להעביר את הפריט דרך USB או חיבור לאלחוטי כדי להוריד פריט זה.
+"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	"{0}" לא יכול להיות מועבר. או לבטל את ההורדה או להתחבר לאלחוטי כדי להוריד פריט זה.
+"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	"{0}" לא ניתן להוריד, כי מצב טיסה מופעל. אפשר או לבטל את ההורדה או לכבות את מצב טיסה.
+"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.	"{0}" לא ניתן להוריד משום שהאלחוטי כבוי. אפשר לבטל את ההורדה או להפעיל אלחוטית.
+"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	"{0}" לא ניתן להוריד, כי קינדל שלך אין לו מספיק זיכרון פנוי. אפשר לעשות יותר זיכרון קינדל זמין על ידי הסרת תוכן מהמסך הבית או לבטל את ההורדה.
+"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	"{0}" לא ניתן להוריד, כי קינדל שלך איבד את החיבור לרשת. אפשר לבטל את ההורדה או לנסות להתחבר לרשת שוב.
+About Kindle FreeTime	אודות קינדל פריי-טיים
+About Vocabulary Builder	אודות אוסף מילים
+Aeroplane Mode	מצב טיסה
+Cancel Download	בטל הורדה
 Cancel	בטל
-Collections that appear in all views on this device are displayed with a star.	
-Connect	
-Content Not Synced	
-Delete This Audiobook	
-Delete This Blog	
+Collections that appear in all views on this device are displayed with a star.	אוספים המופיעים בכל התצוגות על המכשיר הזה מוצגים עם כוכב.
+Connect	התחבר
+Content Not Synced	תוכן אינה מסונכרן
+Delete This Audiobook	מחוק ספר אודיו זה
+Delete This Blog	מחוק בלוג זה
 Delete This Book	מחק ספר זה
-Delete This Collection	
+Delete This Collection	מחק אוסף זה
 Delete This Document	מחק מסמך זה
-Delete This Image Folder	
-Delete This Image Package	
-Delete This Image	
-Delete This Issue	
-Delete This Item	
+Delete This Image Folder	מחק תיקיית תמונות זו
+Delete This Image Package	מחק חבילת תמונות זו
+Delete This Image	מחק תמונה זו
+Delete This Issue	מחק גיליום זה
+Delete This Item	מחק פריט זה
 Delete This Letter	מחק מכתב זה
-Delete This MP3	
-Delete This Notice	מחק התראה זו
-Delete This Receipt	מחק קבלה זו
-Delete This Sample	מחק דוגמית זו
+Delete This MP3	מחק MP3 זה
+Delete This Notice	מחק הודעה זו
+Delete This Receipt	מחק קבלה זה
+Delete This Sample	מחק מדגם זו
 Delete	מחק
-Ignore	
-Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	
-Memory is Full	
-Network Connection Failed	
-Remove from Device	מחק ממכשיר
-Show Only in Collections	
-Show in All Views	
-Tap to Open	
-This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	
-This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	
-Turn Off FreeTime	
-Turn Off	
-Turn On Wireless?	
-Unable to Sync	
-Vocabulary Builder Turned Off	
-Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	
-Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	
-Wi-Fi Required	
-Wi-Fi required	
-You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	
-You have added items to this collection that will not be synced with the Cloud.	
-connection required	
-download complete	
-downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	
-error	
-insufficient space	
-licence at limit	
-on loan	
-pending	
-{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	
-{0}~~~~Are you sure you want to delete this MP3?	
-{0}~~~~Are you sure you want to delete this audiobook?	
-{0}~~~~Are you sure you want to delete this blog?	
-{0}~~~~Are you sure you want to delete this book?	
-{0}~~~~Are you sure you want to delete this document?	
-{0}~~~~Are you sure you want to delete this image folder?	
-{0}~~~~Are you sure you want to delete this image package?	
-{0}~~~~Are you sure you want to delete this image?	
-{0}~~~~Are you sure you want to delete this item?	
-{0}~~~~Are you sure you want to delete this letter?	
-{0}~~~~Are you sure you want to delete this notice?	
-{0}~~~~Are you sure you want to delete this receipt?	
-{0}~~~~Are you sure you want to delete this sample?	
-{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	
- Wi-Fi required	
- connection required	
- downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	
- error	
- insufficient space	
- pending	
+Ignore	התעלם
+Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	קינדל פריי-טיים הושבת ולא יופיע עוד במסך הבית שלך. כדי להפעיל אותו, כנסו להגדרות, אפשרויות התקן, בקרת הורים ואל פריי-טיים.
+Memory is Full	זכרון מלא
+Network Connection Failed	חיבור לרשת נכשלה
+Remove from Device	הסר ממכשיר
+Show Only in Collections	הצג בכל האוספים
+Show in All Views	הצג הכל התצוגות
+Tap to Open	הקש לפתןח
+This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	אוסף זה מסונכרן בכל המכשירים שלך ויימחק על כולם. ~ ~ ~ ~ מחיקת אוסף אינו מסירה את התוכן מאוחסן במכשיר שלך או בענן. האם בטוח שברצונך למחוק את האוסף הזה?
+This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	אוסף זה תוכל לראות רק בתצוגת האוספים. בחר אוספים תחת פריטים שלי כדי לראות אותו. אפשר ללחוץ ולהחזיק על אוסף כדי לשנות את אפשרויות צפייה לאוסף זה.
+Turn Off FreeTime	כבה פריי-טיים
+Turn Off	כבה
+Turn On Wireless?	כבה אלחוטי?
+Unable to Sync	לא ניתם לסנכרן
+Vocabulary Builder Turned Off	אוצר מילים מכובה
+Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	אוצר המילים מכובה ולא תופיע עוד במסך הבית שלך. כדי להפעיל אותה, עבור להגדרות, אפשרויות, קריאה, ואוצר המילים.
+Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	אוצר המילים מסייע לך ללמוד מילות חדשות בזמן קריאה. ~ ~ ~ ~ מילות שתחפשו במילון תוך הקריאה מתווספות לאוצר מילים באופן אוטומטי. לאחר מכן נית להציג כרטיסיות זכרון או לסקור דוגמאות שימוש למילים אלה.
+Wi-Fi Required	נדרש אלחוטי
+Wi-Fi required	נדרש אלחוטי
+You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	הקינדל נמצא כרגע במצב לא מקוון והאוסף שלך לא יעודכן עד שתתחבר לאינטרנט. ~ ~ ~ ~ האם להתחבר עכשיו?
+You have added items to this collection that will not be synced with the Cloud.	הוספת פריטים לאוסף זה שלא יסונכרן עם הענן.
+connection required	נדרש חיבור
+download complete	הורדה הושלמה
+downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	מוריד - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+error	תקלה
+insufficient space	אין מספיק מקום בזיכרון
+licence at limit	רשיון על הגבול
+on loan	בהשאלה
+pending	ממתין
+{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~ ~ ~ ~ האם בטוח שברצונך למחוק את הגיליון הזה?
+{0}~~~~Are you sure you want to delete this MP3?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק MP3 הזה?
+{0}~~~~Are you sure you want to delete this audiobook?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את ספר אודיו זה?
+{0}~~~~Are you sure you want to delete this blog?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את הבלוג הזה?
+{0}~~~~Are you sure you want to delete this book?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את הספר הזה?
+{0}~~~~Are you sure you want to delete this document?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את המסמך הזה?
+{0}~~~~Are you sure you want to delete this image folder?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את תיקיית תמונה זו?
+{0}~~~~Are you sure you want to delete this image package?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את חבילת תמונה זו?
+{0}~~~~Are you sure you want to delete this image?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק תמונה זו?
+{0}~~~~Are you sure you want to delete this item?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק פריט זה?
+{0}~~~~Are you sure you want to delete this letter?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את המכתב הזה?
+{0}~~~~Are you sure you want to delete this notice?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק הודעה זו?
+{0}~~~~Are you sure you want to delete this receipt?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק את הקבלה זו?
+{0}~~~~Are you sure you want to delete this sample?	{0} ~ ~ ~ ~ האם בטוח שברצונך למחוק המדגם זה?
+{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0} ~ ~ ~ ~ פריט זה יועבר לענן, אבל כל נתוני יישום או הגדרות הקשורים אליו יימחקו לצמיתות. האם ברצונך להמשיך?
+ Wi-Fi required	 נדרש אלחוטי
+ connection required	 נדרש חיבור	
+ downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	 מוריד - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+ error	 תקלה
+ insufficient space	 אין מספיק מקום
+ pending	 ממתין
