@@ -1,4 +1,4 @@
-Delete This Image Folder	
-Delete This Image Package	
-Delete This Image	
-{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	
+Delete This Image Folder	מחק תיקיית תמונות זו
+Delete This Image Package	מחק חבילת תמונות זו
+Delete This Image	מחק תמונה זו
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#אין פריטים | 1#{0,number,integer} פריט | 2#{0,number,integer} פריטים}
