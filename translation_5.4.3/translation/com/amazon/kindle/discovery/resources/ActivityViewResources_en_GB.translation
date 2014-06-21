@@ -1,13 +1,13 @@
-Add Comment	
-Also share on:	
-Comment	
-Loading…	
-Request Failed	
-This update was deleted.	
-We canʼt seem to find this comment.	
-We canʼt seem to find this update.	
-{0,select, BookRating {'{0}' liked a rating} BookStatusReading {'{0}' liked an update} BookStatusRead {'{0}' liked an update} BookStatusWantToRead {'{0}' liked an update} Comment {'{0}' liked a comment} GoodreadsReview {'{0}' liked a review} Like {'{0}' liked a comment} Note {'{0}' liked a note} QuoteWithNote {'{0}' liked a quote} Quote {'{0}' liked a quote} ReadingProgressWithNote {'{0}' liked an update} ReadingProgress {'{0}' liked an update} Recommend {'{0}' liked a recommendation} other {'{0}' liked an update}}	
-{0,select, BookStatusReading {'{0}' is currently reading~~'{1}'} BookStatusRead {'{0}' read~~'{1}'} other {'{0}' wants to read~~'{1}'}}	
+Add Comment	הוסף הערה
+Also share on:	שתפו גם ב:
+Comment	הערה
+Loading…	טוען…
+Request Failed	בקשה נכשלה
+This update was deleted.	עדכון זה נמחק.
+We canʼt seem to find this comment.	נראה שאנו לא יכולים למצוא את התגובה הזאת.
+We canʼt seem to find this update.	נראה שאנו לא יכולים למצוא את עדכון זה.
+{0,select, BookRating {'{0}' liked a rating} BookStatusReading {'{0}' liked an update} BookStatusRead {'{0}' liked an update} BookStatusWantToRead {'{0}' liked an update} Comment {'{0}' liked a comment} GoodreadsReview {'{0}' liked a review} Like {'{0}' liked a comment} Note {'{0}' liked a note} QuoteWithNote {'{0}' liked a quote} Quote {'{0}' liked a quote} ReadingProgressWithNote {'{0}' liked an update} ReadingProgress {'{0}' liked an update} Recommend {'{0}' liked a recommendation} other {'{0}' liked an update}}	{0,select, BookRating {'{0}' אהב דירוג} BookStatusReading {'{0}' אהב עדכון} BookStatusRead {'{0}' אהב עדכון} BookStatusWantToRead {'{0}' אהב עדכון} Comment {'{0}' אהב הערה} GoodreadsReview {'{0}' אהב הערה} Like {'{0}' אהב הערה} Note {'{0}' אהב הערה} QuoteWithNote {'{0}' אהב ציטוט} Quote {'{0}' אהב ציטוט} ReadingProgressWithNote {'{0}' אהב עדכון} ReadingProgress {'{0}' אהב עדכון} Recommend {'{0}' אהב המלצה} other {'{0}' אהב עדכון}}
+{0,select, BookStatusReading {'{0}' is currently reading~~'{1}'} BookStatusRead {'{0}' read~~'{1}'} other {'{0}' wants to read~~'{1}'}}	{0,select, BookStatusReading {'{0}' כרגע קורא~~'{1}'} BookStatusRead {'{0}' קרא~~'{1}'} other {'{0}' רוצה לקרוא~~'{1}'}}
 {0,select, amazon {Comment deleted by Amazon {1}.} comment_creator {Comment deleted by the author {1}.} other {Comment deleted {1}.}}	
 {0} by {1}	
 {0} is currently reading~~{1}	
