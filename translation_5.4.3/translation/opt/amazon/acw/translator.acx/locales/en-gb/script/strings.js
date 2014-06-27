@@ -1,5 +1,5 @@
 About Translation אודות התרגום
-Aeroplane Mode must be turned off to use this feature.  מצב טיסה חייב להיות כבוי כדי להשתמש בתכונה זו.
+Aeroplane Mode must be turned off to use this feature.	מצב טיסה חייב להיות כבוי כדי להשתמש בתכונה זו.
 An error occurred. Please try again.	אירעה שגיאה. אנא נסה שוב.
 Back to Translation	חזור לתרגום
 Chinese Simplified	סיני פשוטה

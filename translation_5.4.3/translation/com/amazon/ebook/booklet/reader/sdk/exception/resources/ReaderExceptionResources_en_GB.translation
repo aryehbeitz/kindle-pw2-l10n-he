@@ -1,11 +1,11 @@
-An error occurred while processing page data. Some features may not work. אירעה שגיאה בעת עיבוד נתוני דף. תכונות מסוימות עלולות שלא לפעול.	
+An error occurred while processing page data. Some features may not work.	אירעה שגיאה בעת עיבוד נתוני דף. תכונות מסוימות עלולות שלא לפעול.
 An error occurred. If you purchased this item from Amazon, delete the item and download it from the Cloud.	אירעה שגיאה. אם רכשת מוצר זה מאמזון, מחק את הפריט והוריד אותו מהענן.
 An error occurred. Some features may not work correctly.	אירעה שגיאה. תכונות מסוימות עלולות שלא לפעול כהלכה.
 Cannot Change Text Size	לא יכול לשנות את גודל הטקסט
 Cannot Load Data	אין אפשרות לטעון נתונים
 Clipping Error	שגיאת בפעולת אסיפה
 Could not complete the search because your Kindle doesnʼt have enough free memory. To make more memory available, remove content from the Home screen.	לא ניתן להשלים את החיפוש, כי קינדל שלך אין לו מספיק זיכרון פנוי. לעשות יותר זיכרון זמין, הסיר תוכן ממסך הבית.
-Dictionary not found for this book. מילון לא נמצא לספר הזה.	
+Dictionary not found for this book.	מילון לא נמצא לספר הזה.
 Error	תקלה
 File Not Supported	קובץ לא נתמך
 Insufficient Memory	אין מספיק זיכרון
@@ -28,26 +28,26 @@ The selected item could not be opened. Your Kindle doesnʼt have enough free mem
 The selected item is missing important metadata and may cause system instability. For help, contact Kindle Customer Service at: www.kindle.com/support.	הפריט שנבחר חסר נתוני meta חשובים ויכול לגרום לאי יציבות מערכתי. לקבלת עזרה, פנה לשירות לקוחות קינדל ב: www.kindle.com/support.
 There arenʼt any dictionaries on your device. To download a dictionary, go to the Cloud.	אין שום מילונים במכשיר שלך. להוריד מילון, גש לענן.
 This item cannot be opened because it is licensed to a different user. Delete the item and download it from the Cloud or purchase a copy from the Kindle Store.	פריט זה לא ניתן לפתוח משום שרשומה למשתמש אחר. מחוק הפריט ולהוריד אותו מהענן או רכוש עותק מחנות קינדל.
-This operation cannot be executed now. פעולה זו לא ניתן לבצע כעת.	
+This operation cannot be executed now.	פעולה זו לא ניתן לבצע כעת.
 This {0} action could not be performed.	פעולה זו {0} לא ניתן לבצעו.
 Unable to Close Item	לא ניתן לסגור את הפריט
 Unable to Complete Search	לא ניתן להשלים את החיפוש
 Unable to Load Components	לא ניתן לטעון את הרכיבים
 Unable to Open Item	אין אפשרות לפתוח פריט
 Unable to Perform Action	לא ניתן לבצע פעולה
-Unable to Sync to Furthest Page Read. 	אין אפשרות לסינכרון לעמוד הרחוק שנקרא.
+Unable to Sync to Furthest Page Read.	אין אפשרות לסינכרון לעמוד הרחוק שנקרא.
 Unable to Sync	אין אפשרות לסינכרון
 Unable to close previous book. If some features do not work correctly, go to Home and reopen the book.	לא ניתן לסגור את הספר קודם. אם חלק מהתכונות לא עובדות בצורה נכונה, עבור לבית ופתח מחדש את הספר.
 Unable to go to requested location. 	לא ניתן לעבור למיקום מבוקש.
 Unable to load necessary system components. If you purchased this item from Amazon, delete the item and download it again from the Cloud.	לא ניתן לטעון רכיבי מערכת נחוצים. אם רכשת מוצר זה מאמזון, מחק את הפריט והורד אותו שוב מהענן.
 Unable to load necessary system components.	לא ניתן לטעון רכיבי מערכת נחוצים.
-Unable to load your preferences. 	לא ניתן לטעון ההעדפות שלך.
+Unable to load your preferences.	לא ניתן לטעון ההעדפות שלך.
 Unable to make this change.	אין אפשרות לעשות את השינוי הזה.
 Unable to save clipping. You have reached the clipping limit for this book.	אין אפשרות לשמור את גזיר העיתון. הגעת למגבלת האסיפה לספר הזה.
 Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	אין אפשרות לשמור את גזיר העיתון. הגעת למגבלת האסיפה שנקבעה על ידי המוציא לאור{0,choice,0#|1#, {1}}.
 Unable to update Home.	לא ניתן לעדכן את עמוד הבית.
 You will not be able to add/share {0} this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	לא תוכל להוסיף/לשתף מוצר זה {0} כי אין לך בכרטיס זיכרון SD מספיק מקום פנוי. נא לפנות מקום בכרטיס זיכרון SD על ידי הסרת פריטים.
-Your Kindle does not have enough free memory and your bookmark could not be saved. To make more memory available, remove content from the Home screen.	לקינדל שלך אין מספיק זיכרון פנוי והסימנייה שלך לא הייתה יכולה להישמר. כדי לעשות יותר זיכרון זמין,  ניתן להסיר תוכן ממסך הבית.
+Your Kindle does not have enough free memory and your bookmark could not be saved. To make more memory available, remove content from the Home screen.	לקינדל שלך אין מספיק זיכרון פנוי והסימנייה שלך לא הייתה יכולה להישמר. כדי לעשות יותר זיכרון זמין, ניתן להסיר תוכן ממסך הבית.
 Your Kindle does not have enough free memory and your highlight could not be saved. To make more memory available, remove content from the Home screen.	לקינדל שלך אין מספיק זיכרון פנוי והסימון שלך לא הייתה יכולה להישמר. כדי לעשות יותר זיכרון זמין, הסר תוכן ממסך הבית.
 Your Kindle does not have enough free memory and your note could not be saved. To make more memory available, remove content from the Home screen.	לקינדל שלך אין מספיק זיכרון פנוי ואת ההערה שלך לא הייתה יכולה להישמר. כדי לעשות יותר זיכרון זמין, הסר תוכן ממסך הבית.
 Your search cannot be completed as this item has not yet been indexed. Please try again later.	החיפוש שלך לא ניתן להשלים כי פריט זה טרם מאונדקס. אנא נסה שוב מאוחר יותר.

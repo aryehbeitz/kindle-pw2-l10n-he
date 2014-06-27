@@ -5,4 +5,4 @@ Language and Dictionaries	שפה ומילונים
 Language	שפה
 Set the default dictionary for each language. הגדר את מילון ברירת המחדל עבור כל שפה.
 Set the language on your Kindle.	הגדר את שפת הקינדל שלך.
-{0,plural, =0 {ללא מקלדות} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}  {0,plural, =0 {ללא מקלדות} one {{0, number, integer} מקלדת} other {{0, number, integer} מקלדות}}
+{0,plural, =0 {ללא מקלדות} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {ללא מקלדות} one {{0, number, integer} מקלדת} other {{0, number, integer} מקלדות}}

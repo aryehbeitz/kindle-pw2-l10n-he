@@ -35,7 +35,7 @@ Parental Controls are enabled on your Kindle. Kindle Store is locked.	בקרת �
 Parental Controls are enabled on your Kindle. Purchases are not allowed.	בקרת הורים מופעלות על הקינדל שלך. רכישות אינן מאושרות.
 Parental Controls are enabled on your Kindle. Web Browser is locked.	בקרת הורים מופעלות על קינדל שלך. דפדפן אינטרנט הוא נעול.
 Please select from the following options:	אנא בחר מבין האפשרויות הבאות:
-Power	כוח
+Power	הפעלה
 Purchase Limit Reached	תקרת רכישות הגיע
 Purchases Pending	רכישות בהמתנה
 Purchasing Locked	רכישות נעול
@@ -60,7 +60,7 @@ This is a managed device. Access to Cloud is locked. For information, contact: {
 This is a managed device. Access to Goodreads on Kindle is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. גישה לGoodreads על קינדל נעול. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Active Content is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. תוכן פעיל נעול. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Aeroplane Mode is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. מצב טיסה נעול. לקבלת מידע, פנה: {contactInfo}.
-This is a managed device. It has been instructed to reset to factory defaults, which will remove all downloaded and transferred content. This process will begin shortly. Please wait until this process is complete. For information, contact: {contactInfo}.	
+This is a managed device. It has been instructed to reset to factory defaults, which will remove all downloaded and transferred content. This process will begin shortly. Please wait until this process is complete. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. הוא כבר הורה לאיפוס לברירות מחדל של היצרן, אשר יסיר את כל התוכן שהורד והועבר. תהליך זה יתחיל בקרוב. אנא המתן עד שהתהליך הזה יושלם. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Kindle Store is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. חנות קינדל נעולה. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. MP3 Player is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. נגן MP3 נעול. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Settings Menu is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. תפריט הגדרות נעול. לקבלת מידע, פנה: {contactInfo}.
@@ -83,7 +83,7 @@ Web Browser Locked	דפדפן אינטרנט נעול
 Wi-Fi Login Required	נדרש כניסה לרשת אלחוטית
 Wi-Fi Settings Locked	הגדרות Wi-Fi נעול
 Wireless is turned off. Do you want to turn on wireless?	אלחוטיות כבוי. האם אתה רוצה להפעיל אלחוטי?
-You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	כבר  {count,plural,=0 {אין הזמנות תלויות ועומדות} one {הזמנה אחת תלוי ועומד} other { # הזמנות תלויים ועומדים}} להצעה מיוחדת זו.
+You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	כבר {count,plural,=0 {אין הזמנות תלויות ועומדות} one {הזמנה אחת תלוי ועומד} other { # הזמנות תלויים ועומדים}} להצעה מיוחדת זו.
 You must register your Kindle to make a purchase.	אתה חייב לרשום את קינדל שלך כדי לבצע רכישה.
 Your Kindle fonts are updating. This can take a moment...	גופני קינדל שלך מעדכנים. זה יכול לקחת רגע ...
 Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?	קינדל שלך הוא לא הצליח ליצור חיבור אלחוטי. האם לכבות את מצב טיסה?

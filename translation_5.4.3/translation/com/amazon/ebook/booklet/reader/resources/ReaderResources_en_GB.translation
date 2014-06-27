@@ -5,7 +5,7 @@ Book Description	תיאור ספר
 Buy This Book Now	רכוש ספר זה עכשיו
 Cancel	בטל
 Close	סגור
-Contrast  ניגודיות
+Contrast	ניגודיות
 Cover שער
 Darkest	הכי כהה
 Delete Note	מחק הערה
@@ -18,7 +18,7 @@ Enter a page (1 - {0})	הזן עמוד (1 - {0})
 Enter a page ({0}) or location ({1} - {2})	הזן עמוד ({0}) או מיקום ({1} - {2})
 Enter a page ({0})	הזן עמוד ({0})
 Enter a page or location ({1} - {2})	הזן עמוד או מיקום ({1} - {2})
-Enter a page  הזן עמוד
+Enter a page	הזן עמוד
 Enter password: הזן סיסמא
 Fonts גופנים
 Go To	עבור אל
@@ -44,9 +44,9 @@ Page 	עמוד
 Page or Location	עמוד או מיקום
 Page {0} of {1}	עמוד {0} מיתוך {1}
 Page {0}	עמוד {0}
-Password-Protected  מוגן בסיסמא
+Password-Protected	מוגן בסיסמא
 Publisher Font	גופן המוציר לאור
-Retrieving furthest page read...  שולף הדף הרחוק ביותר שקראת ...
+Retrieving furthest page read...	שולף הדף הרחוק ביותר שקראת ...
 Save	שמור
 Settings	הגדרות
 Share	שתף
@@ -61,7 +61,7 @@ Table of Contents...	תוכן העניינים...
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	אין זיכרון הקינדל מספיק כדי להוסיף או לערוך הערות או סימנים על מסמך זה. בבקשה לעשות יותר זיכרון הקינדל זמין על ידי הסרת תוכן מהמסך הבית.
 This PDF is password-protected. PDF זה מוגן בסיסמא.
 To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	כדי לסנכרן להדף הרחוקה, גיבוי ההערות חייב להיות מופעל. עבור להגדרות מהתפריט במסך הבית, בחר אפשרויות הקראה, ולאחר מכן גיבוי ההערות.
-Unable to Sync  לא ניתן לסנכרן
+Unable to Sync	לא ניתן לסנכרן
 Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep. לא ניתן לאחזר את קריאת המיקום המרוחקת. אם זו הפעם הראשונה שפתחת את הספר הזה, המכשיר שלך יעדכן את המיקום שלך כאשר אתה סוגר את הספר או כאשר המכשיר שלך הולך לישון.	
 Unlock Rotation	בטל נעילת סיבוב
 View Note	הצג הערה
