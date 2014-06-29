@@ -1,4 +1,4 @@
-About Translation אודות התרגום
+About Translation	אודות התרגום
 Aeroplane Mode must be turned off to use this feature.	מצב טיסה חייב להיות כבוי כדי להשתמש בתכונה זו.
 An error occurred. Please try again.	אירעה שגיאה. אנא נסה שוב.
 Back to Translation	חזור לתרגום
@@ -32,10 +32,10 @@ To:	ל:
 Translating your selection...	מתרגם בחירתך...
 Translation	תרגום
 Turkish	תורכי
-Turn Off Aeroplane Mode	בטל מצב טיסה
+Turn Off Aeroplane Mode	כבה מצב טיסה
 Turn On Wireless	הפעל אלחוטי
 Ukrainian	אוקראיני
 Unable to contact the server. Please try again later.	לא ניתן ליצור קשר עם השרת. אנא נסה שוב מאוחר יותר.
 Unknown	לא ידוע
-Waiting for connection...	ממתין לחיבור
+Waiting for connection...	ממתין לחיבור...
 Wireless must be turned on to use this feature.	אלחוטי חייב להיות מופעל כדי להשתמש בתכונה זו.

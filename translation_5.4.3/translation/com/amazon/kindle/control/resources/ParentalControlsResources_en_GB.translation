@@ -24,4 +24,3 @@ Web Browser	דפדפן אינטרנט
 When Parental Controls are enabled, Deregistration and Reset Device are disabled.	כאשר בקרת הורים מופעלות, ביטול רישום ואיפוס התקן אינם זמינים.
 When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When the Kindle Store is locked, you can continue buying books from your computer and send them to your Kindle.	כאשר בקרת הורים מופעלות, ביטול רישום ואיפוס התקן אינם זמינים.~ ~ ~ ~ כאשר חנות קינדל נעולה, אתה יכול להמשיך לקנות ספרים מהמחשב שלך ולשלוח אותם לקינדל שלך.
 {0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.kindle.com/support to receive help resetting your device.	{0,select, has_hint {רמז: {1}} other {}}~~~~אם שכחת את הסיסמא, אנא פנה לשירות לקוחות בקינדל www.kindle.com/support לקבל עזרה לאפס המכשיר שלך.
-

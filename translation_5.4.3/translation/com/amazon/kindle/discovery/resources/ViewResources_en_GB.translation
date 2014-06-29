@@ -2,13 +2,13 @@
 + Follow	עקוב
 About Me	על עצמי
 Add Amazon Books to Goodreads	הוסף ספרי אמזון לGoodreads
-Add Friends  הוסף חברים 
+Add Friends 	הוסף חברים 
 Add a comment…	הוסף הערה
 Add physical and digital Amazon book purchases to Goodreads by rating them or adding them to a shelf.	הוסף רכישות אמזון בספר פיזיות ודיגיטליות לGoodreads לפי דירוגם או הוסף אותם למדף.
 Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	האם בטוח שהיית רוצה להסיר את {0} מהרשימה החברים שלך? חברים אינם מודעים כאשר מסירים אותם.
 By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.	על ידי חיבור, תאפשר לGoodreads לגשת לפרופיל שלך ציבורי, רשימת חברים, כתובת דואר אלקטרוני, ואוהב מפייסבוק. בנוסף, Goodreads תוכל לשלוח הודעות לחברים שלך בשמך. אם תמשיכו, אתם מסכים לתנאי Goodreads השירות ומדיניות פרטיות.
 By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.	על ידי חיבור, תאפשר לGoodreads לגשת לפרופיל שלך ציבורי, רשימת חברים, כתובת דואר אלקטרוני, ואוהב מפייסבוק. בנוסף, Goodreads תוכל לשלוח הודעות לחברים שלך בשמך. אם תמשיכו, אתם מסכים לתנאי Goodreads השירות ומדיניות פרטיות.
-By {0} מאת {0}
+By {0}	 מאת {0}
 Cancel Request	בטל בקשה
 Currently Reading ({0,number,integer})	כרגע קורא ({0,number,integer})
 Currently Reading ({0})	כרגע קורא ({0})
@@ -92,9 +92,9 @@ shared an activity	שיטף פעילות
 {0,select,empty {There arenʼt currently any new readers for you to follow. Please try again later.} facebook_not_connected {There arenʼt currently any new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…} other {}}	{0,select,empty {אין עדיין קוראים חדשים לך לעקוב. אנא נסה שוב מאוחר יותר.} facebook_not_connected {אים עדיין קוראים חדשים לך לעקוב. הוסף את החברים שלך מפייסבוק לGoodreads } unknown {טוען קוראים מומלצים…} other {}}
 {0,select,empty {There arenʼt currently any reviews. Please try again later.} unknown {Loading Reviews…} other {}}	{0,select,empty {אין כעת חוות דעת. אנא נסה שוב מאוחר יותר.} unknown {טוען חוות דעת…} other {}}
 {0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} other {}}	{0,select,empty {אינך עוקב אחרי קוראים עדיין. ~ ~ הקש כאן כדי לעקוב אחרי קוראים שאני מציעים או להוסיף חברים מפייסבוק } unknown {טוען עוקבים…} other {}}
-{0,select,empty {You do not have any followers yet.} unknown {Loading…} other {}}	
-{0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} other {}}	
-{0,select,empty {You donʼt currently have any followers.} unknown {Loading Followers…} other {}}	
+{0,select,empty {You do not have any followers yet.} unknown {Loading…} other {}}	{0,select,empty {אף אחד אינו עוקב אחריך עדיין.} unknown {טוען…} other {}}
+{0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} other {}}	{0,select,empty {אין לך חברים עדיין.~~הקש כאן לעקוב אחרי קוראים מוצעים או להוסיף חברים מפייסבוק } unknown {טוען חברים…} other {}}
+{0,select,empty {You donʼt currently have any followers.} unknown {Loading Followers…} other {}}	{0,select,empty {אין לך כעת עוקבים.} unknown {טטען עוקבים…} other {}}
 {0,select,empty {You have not shelved any books yet. View your Amazon book purchases to add books to Goodreads } unknown {Loading books…} other {}}	{0,select,empty {לא העברת ספרים עדיין למדף. צפה ברכישות אמזון שלך למצוא ספרים להוסיף לGoodreads } unknown {טוען ספרים…} other {}}
 {0} by {1}	{0} מאת {1}
 {0} 	{0} 

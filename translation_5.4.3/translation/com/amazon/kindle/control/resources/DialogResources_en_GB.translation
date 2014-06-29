@@ -5,9 +5,9 @@ Device Time	זמן המכשיר
 Go To	עבור אל
 Go	סע
 Hint	רמז
-Page number (1 to {0, choice, 0#1|1#{0,number,integer}}): עמוד מספר (1 עד {0, choice, 0#1|1#{0,number,integer}}):
+Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	 עמוד מספר (1 עד {0, choice, 0#1|1#{0,number,integer}}):
 Remove Sample From	הסר מדגם מ
-Remove This Sampleהסר מדגם זה
+Remove This Sample	הסר מדגם זה
 Remove	הסר
 Removing a sample from the Cloud will also remove it from all devices.	הסרת מדגם מהענן יסיר אותו מכל המכשירים.
 Select Child	בחר ילד

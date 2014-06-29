@@ -8,7 +8,7 @@ Edit Pronunciation	עריכת הגייה
 In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	בענן: {0,plural,=0 {אין פריטים} one {{0,number,integer}פריט} other {{0,number,integer} פריטים} }
 Learn more	למידע נוסף
 Manage FreeTime Items	נהל פריטי פריי-טיים
-Narrator: קריין:	
+Narrator:	קריין:
 On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	במכשיר: {0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים} }
 Rename	שינוי שם
 Show Only in Collections View	הצג בתצוגת אוספים בלבד

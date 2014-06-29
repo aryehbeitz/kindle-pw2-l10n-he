@@ -1,5 +1,5 @@
 Aeroplane Mode must be turned off to use this feature.	מצב טיסה חייב להיות כבוי כדי להשתמש בתכונה זו.
-An error occurred. Please try again.	An error occurred. Please try again.	אירעה שגיאה. אנא נסה שוב.
+An error occurred. Please try again.	אירעה שגיאה. אנא נסה שוב.
 Launch Wikipedia	הפעל ויקיפידיה
 No Wikipedia results were found for your selection.	לא נמצרו תוצאות ויקיפדיה עבור הבחירה שלך.
 No network detected. Please check your connection and try again.	רשת לא זוהתה. אנא בדוק את החיבור שלך ונסה שוב.

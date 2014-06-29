@@ -1,14 +1,14 @@
 All Notes & Marks ({0,number,integer})	כל הערות וסימונים ({0,number,integer})
 All	הכל
 Bookmarks	סימניות
-Delete	מחוק
+Delete	מחק
 Edit	ערוך
 Go To	עבור אל
 Go to Location	עבור אל מיקום
 Go	סע
 Highlights	סימונים
 Items {0,number,integer} of {1,number,integer}	פריטים {0,number,integer} מתוך {1,number,integer}
-Items {0,number,integer}-{1,number,integer} of {2,number,integer}	
+Items {0,number,integer}-{1,number,integer} of {2,number,integer}	פריטים {0,number,integer}-{1,number,integer} מתוך {2,number,integer}
 Note {0}	הערה {0}
 Notes & Marks ({0,number,integer}) ·	הערות וסימונים ({0,number,integer}) ·
 Notes & Marks	הערות וסימונים
@@ -27,7 +27,7 @@ Your Notes & Marks ({0,number,integer})	הערות וסימונים שלך ({0,n
 Your Notes ({0,number,integer})	הערות שלך ({0,number,integer})
 Yours	שלך
 {0,number,integer} of {1,number,integer}	{0,number,integer} מתוך {1,number,integer}
-{0} highlighted this passage.	{0} סימנו את הקטע הזה.
-{0} · Page {1} - {2}	{0} · עמוד {1} - {2}	
-{0}’s Highlight	הערות של {0}
+{0} highlighted this passage.	{0} סימנו הקטע הזה.
+{0} · Page {1} - {2}	{0} · עמוד {1} - {2}
+{0}’s Highlight	הסימון של {0}
 {0}’s Note	הערה של {0}

@@ -5,7 +5,7 @@ BBC News	חדשות BBC
 Bookmark this Page	סימניה לדף זה
 Bookmarks	סימניות
 Browser Settings	הגדרות דפדפן
-Clear Cookies נקה Cookies
+Clear Cookies	נקה Cookies
 Clear History	נקה הסטוריה
 Disable Images	אל תצג תמונות
 Disable JavaScript	בטל JavaScript

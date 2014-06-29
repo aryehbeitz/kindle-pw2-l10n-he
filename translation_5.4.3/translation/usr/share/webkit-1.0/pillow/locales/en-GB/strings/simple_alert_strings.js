@@ -86,7 +86,7 @@ Wireless is turned off. Do you want to turn on wireless?	אלחוטיות כבו
 You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	כבר {count,plural,=0 {אין הזמנות תלויות ועומדות} one {הזמנה אחת תלוי ועומד} other { # הזמנות תלויים ועומדים}} להצעה מיוחדת זו.
 You must register your Kindle to make a purchase.	אתה חייב לרשום את קינדל שלך כדי לבצע רכישה.
 Your Kindle fonts are updating. This can take a moment...	גופני קינדל שלך מעדכנים. זה יכול לקחת רגע ...
-Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?	קינדל שלך הוא לא הצליח ליצור חיבור אלחוטי. האם לכבות את מצב טיסה?
+Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?	קינדל שלך הוא לא הצליח ליצור חיבור אלחוטי. האם לכבות מצב טיסה?
 Your battery is almost depleted and your Kindle will soon shut down. To continue using your Kindle, connect it to a power source.	סוללתך קרובה למיצוי וקינדל שלך יכבה בקרוב. כדי להמשיך להשתמש בקינדל שלך, חבר אותו למקור חשמל.
 Your battery is running low. Please charge your Kindle. If your wireless is turned on, try turning it off to extend your reading time.	הסוללה עומדת להתרוקן. נא להטעין הקינדל שלך. אם האלחוטי שלך מופעל, נסה לכבות אותו כדי להאריך את זמן הקריאה שלך.
 Your battery is running low. Please charge your Kindle.	הסוללה עומדת להתרוקן. נא לחטעין הקינדל שלך.
