@@ -9,7 +9,7 @@ cd strings
 
 VER="strings_$VERSION"
 echo "begin;" > ../strings_$VERSION.all.sql
-find . -name '*_en_GB.strings' -exec sh -c "awk 'BEGIN {FS="'"'"\\t|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < '{}'" \; | \
+find . -name '*_en_GB.strings' -exec bash -c "awk 'BEGIN {FS="'"'"\\t|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < '{}'" \; | \
     sed "s/'/''/g" | \
     (
 	printf -v IFS "\t"
@@ -35,7 +35,7 @@ find . -name '*_en_GB.strings' -exec sh -c "awk 'BEGIN {FS="'"'"\\t|\\r"'"'"} { 
 	done
     )
 
-find . -name '*_en_GB.properties' -exec sh -c "native2ascii -reverse '{}' '{}.native'; awk 'BEGIN {FS="'"'"([[:space:]]*=[[:space:]]*)|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < '{}.native'; rm -f '{}.native'" \; | \
+find . -name '*_en_GB.properties' -exec bash -c "native2ascii -reverse '{}' '{}.native'; awk 'BEGIN {FS="'"'"([[:space:]]*=[[:space:]]*)|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < '{}.native'; rm -f '{}.native'" \; | \
     sed "s/'/''/g" | \
     (
 	printf -v IFS "\t"

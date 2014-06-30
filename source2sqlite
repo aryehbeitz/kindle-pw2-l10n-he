@@ -11,7 +11,7 @@ VER="strings_$VERSION"
 cd source
 echo "begin;" > ../../source_$VERSION.sql
 echo "delete from trans where ver = '$VER';" >> ../../source_$VERSION.sql
-find . \( -name '*.translation' -or -name '*.js' -or -name '*.xml' \) -exec sh -c "awk 'BEGIN {FS="'"'"\\t|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < {}" \; | \
+find . \( -name '*.translation' -or -name '*.js' -or -name '*.xml' \) -exec bash -c "awk 'BEGIN {FS="'"'"\\t|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < {}" \; | \
     sed "s/'/''/g" | \
     (
 	printf -v IFS "\t"
@@ -24,7 +24,7 @@ find . \( -name '*.translation' -or -name '*.js' -or -name '*.xml' \) -exec sh -
 	done
     )
 
-find . -name '*.properties' -exec sh -c "awk 'BEGIN {FS="'"'"([[:space:]]*=[[:space:]]*)|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < {}" \; | \
+find . -name '*.properties' -exec bash -c "awk 'BEGIN {FS="'"'"([[:space:]]*=[[:space:]]*)|\\r"'"'"} { print "'"'"{}\t"'"'" \$1 "'"'"\t"'"'" \$2}' < {}" \; | \
     sed "s/'/''/g" | \
     (
 	printf -v IFS "\t"
