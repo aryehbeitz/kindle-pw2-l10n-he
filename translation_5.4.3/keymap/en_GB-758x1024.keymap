@@ -2,7 +2,7 @@
     "keyboard_language" : "en-GB",
 
     "candidate_font" : "Futura 11",
-    "candidate_border" : 5,'
+    "candidate_border" : 5,
     "candidate_separation" : 25,
     "candidate_height" : 49,
     "candidate_list_can_expand" : true,
