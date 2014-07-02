@@ -47,8 +47,8 @@ Settings Menu Locked	תפריט הגדרות נעול
 Shipping Mode Failed	מצב משלוח נכשל
 Social Networks Locked	רשתות חברתיות נעול
 The Java Heap has been low for too long.	The Java Heap has been low for too long.
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in to: {essid}?	רשת Wi-Fi שאתה מתחבר למחייבת אותך לחתום בלפני הגישה לאינטרנט. האם אתה רוצה ללכת לדפדפן האינטרנט כדי להיכנס ל: {essid}?
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in?	רשת Wi-Fi שאתה מתחבר למחייבת אותך לחתום בלפני הגישה לאינטרנט. האם אתה רוצה ללכת לדפדפן האינטרנט כדי להיכנס?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in to: {essid}?	רשת אלחוטי שאתה מתחבר למחייבת אותך לחתום בלפני הגישה לאינטרנט. האם אתה רוצה ללכת לדפדפן האינטרנט כדי להיכנס ל: {essid}?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in?	רשת אלחוטי שאתה מתחבר למחייבת אותך לחתום בלפני הגישה לאינטרנט. האם אתה רוצה ללכת לדפדפן האינטרנט כדי להיכנס?
 The application is not responding. Please wait while your Kindle restarts.	היישום אינו מגיב. אנא המתן בזמן שהקינדל מופעל מחדש.
 The item failed to close properly. Unless you close this dialog box your device will restart in {restartTime,plural,=0 {# seconds} one {# second} other {# seconds}}.	הפריט לא הצליח לסגור כמו שצריך. אלא אם כן אתה סוגר את תיבת הדו שיח זה המכשיר יופעל מחדש בתוך {restartTime,plural,=0 {# שניות} one {# שניה} other {# שניות}}.
 The selected application could not be started. Please try again.	לא ניתן להפעיל את היישום שנבחר. אנא נסה שוב.
@@ -67,7 +67,7 @@ This is a managed device. Settings Menu is locked. For information, contact: {co
 This is a managed device. Social Network access is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. גישת רשת החברתית נעולה. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Toggle Wireless is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. החלף מצב אלחוטיות נעול. לקבלת מידע, פנה: {contactInfo}.
 This is a managed device. Web Browser is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. דפדפן אינטרנט הוא נעול. לקבלת מידע, פנה: {contactInfo}.
-This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. תצורת הגדרות Wi-Fi נעולה. לקבלת מידע, פנה: {contactInfo}.
+This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. תצורת הגדרות אלחוטי נעולה. לקבלת מידע, פנה: {contactInfo}.
 To play MP3 files, you must first copy them from your computer to the "music" folder on your Kindle.	לנגן קבצי MP3, אתה צריך קודם כל להעתיק אותם מהמחשב לתיקיית "music" על קינדל שלך.
 Toggle Wireless Locked	החלף מצב אלחוטיות נעול
 Turn On Wireless?	הפעל אלחוטי?
@@ -81,7 +81,7 @@ Very Low Battery	סוללה נמוכה מאוד
 We are unable to process your request. Please try again later.	אין באפשרותנו לעבד את בקשתך. אנא נסה שוב מאוחר יותר.
 Web Browser Locked	דפדפן אינטרנט נעול
 Wi-Fi Login Required	נדרש כניסה לרשת אלחוטית
-Wi-Fi Settings Locked	הגדרות Wi-Fi נעול
+Wi-Fi Settings Locked	הגדרות אלחוטי נעול
 Wireless is turned off. Do you want to turn on wireless?	אלחוטיות כבוי. האם אתה רוצה להפעיל אלחוטי?
 You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	כבר {count,plural,=0 {אין הזמנות תלויות ועומדות} one {הזמנה אחת תלוי ועומד} other { # הזמנות תלויים ועומדים}} להצעה מיוחדת זו.
 You must register your Kindle to make a purchase.	אתה חייב לרשום את קינדל שלך כדי לבצע רכישה.

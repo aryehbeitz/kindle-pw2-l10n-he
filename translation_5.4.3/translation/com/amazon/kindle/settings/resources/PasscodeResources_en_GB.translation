@@ -6,11 +6,11 @@ Create Passcode	צור סיסמא
 Device Passcode	סיסמת המכשיר
 Enter Current Passcode	הקש סיסמא נוכחי
 Enter New Passcode	הקש סיסמא חדשה
-Enter Passcode	השק סיסמא
+Enter Passcode	הקש סיסמא
 Incorrect Passcode	סיסמא שגויה
 Passcode Invalid	סיסמא אינה תקינה
 Passcodes Do Not Match	סיסמאות אינן תואמות
 Please enter a valid passcode.	הקש סיסמא חוקית
-Please try again.	אנא נסה שוב.
+Please try again.	אנא נסה שוב
 Turn Off Passcode	כבה סיסמא
 Your passcode must contain at least {0,number,integer} digits. Please try again.	סיסמתך חייבת להכיל לפחות {0,number,integer} מספרים. אנא נסה שנית.

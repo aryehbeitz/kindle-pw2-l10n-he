@@ -2,7 +2,7 @@ Achievements	הישיגים
 Activity	פעילות
 Average Reading Time	זמן קריאה ממוצע
 Badges	תגים
-Beat your daily reading goal.~~Congratulations, you’ve read more than your daily reading goal.	השגת מטרת הקריאה היומית שלך. ~ ~ מזל טוב, שקראת יותר מ מטרת הקריאה היומית שלך.
+Beat your daily reading goal.~~Congratulations, you’ve read more than your daily reading goal.	השגת מטרת הקריאה היומית שלך. ~~ מזל טוב, שקראת יותר מ מטרת הקריאה היומית שלך.
 Beat your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	השגת מטרת הקריאה היומית שלך.~~{0, select, false{כדי להרוויח את ההישג הזה, בקש מההורים שלך לתת לך מטרת קריאה יומית.} other{קראו לפחות {1, plural, =0{{1, number, integer} דקות} one{{1, number, integer} דקה} other{{1, number, integer} דקות}} היום.}}
 Books	xprho
 Bookworm {0,choice,0#|2#({0,number,integer})}	תולעת ספרים {0,choice,0#|2#({0,number,integer})}
@@ -26,16 +26,16 @@ Reach your daily reading goal 30 days in a row.~~Youʼve reached your daily read
 Reach your daily reading goal 7 days in a row.~~Youʼve reached your daily reading goal {0, plural, =0{{0, number, integer} days in a row.} one{{0, number, integer} day in a row.} other{{0, number, integer} days in a row.}} {1, plural, =0{Only {1, number, integer} more to go!} one{Only {1, number, integer} more to go!} other{Only {1, number, integer} more to go!}}	הסיגו היעד הקריאה היום בשבע יום ברצף.~~הגעת ליעד הקריאה היומית שלך {0, plural, =0{{0, number, integer} ימים ברצף.} one{{0, number, integer} יום ברצף.} other{{0, number, integer} ימים ברצף.}} {1, plural, =0{נשאר רק עוד {1, number, integer}!} one{נשאר רק עוד {1, number, integer}!} other{נשאר רק עוד {1, number, integer}!}}
 Reach your daily reading goal.~~Congratulations, you’ve reached your daily reading goal.	הסיגו היעד הקריאה היומית.~~כל הכבוד! הגעת ליעד הקריאה היומית שלך.
 Reach your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	הסיגו היעד הקריאה היומית.~~{0, select, false{להרוויח את ההישג הזה, בקש ממהורים להגדיר עבורך יעד קריאה.} other{קרא לפחות למשך {1, plural, =0{{1, number, integer} דקות} one{{1, number, integer} דקה} other{{1, number, integer} דקות}} היום.}}
-Read 1,000 pages.~~Congratulations, you’ve read 1,000 pages.	קראו 1,000 דפים. ~ ~ מזל טוב, יצא לך לקרוא 1,000 דפים.
-Read 1,000 pages.~~Youʼve read {0, number, integer} of 1,000 pages.	קראו 1,000 דפים. ~ ~ קראת {0, number, integer} מתוך 1,000 דפים.
-Read 10,000 pages.~~Congratulations, you’ve read 10,000 pages.	קראו 10,000 דפים. ~ ~ מזל טוב, יצא לך לקרוא 10,000 דפים.
-Read 10,000 pages.~~Youʼve read {0, number, integer} of 10,000 pages.	קראו 10,000 דפים. ~ ~ קראת {0, number, integer} מתוך 10,000 דפים.
-Read 100 pages.~~Congratulations, you’ve read 100 pages.	קראו 100 דפים. ~ ~ מזל טוב, יצא לך לקרוא 100 דפים.
-Read 100 pages.~~Youʼve read {0, number, integer} of 100 pages.	קראו 100 דפים. ~ ~ קראת {0, number, integer} מתוך 100 דפים.
-Read 50 pages.~~Congratulations, you’ve read 50 pages.	קראו 50 דפים. ~ ~ מזל טוב, יצא לך לקרוא 50 דפים.
-Read 50 pages.~~Youʼve read {0, number, integer} of 50 pages.	קראו 50 דפים. ~ ~ קראת {0, number, integer} מתוך 50 דפים.
-Read 500 pages.~~Congratulations, you’ve read 500 pages.	קראו 500 דפים. ~ ~ מזל טוב, יצא לך לקרוא 500 דפים.
-Read 500 pages.~~Youʼve read {0, number, integer} of 500 pages.	קראו 500 דפים. ~ ~ קראת {0, number, integer} מתוך 500 דפים.
+Read 1,000 pages.~~Congratulations, you’ve read 1,000 pages.	קראו 1,000 דפים. ~~ מזל טוב, יצא לך לקרוא 1,000 דפים.
+Read 1,000 pages.~~Youʼve read {0, number, integer} of 1,000 pages.	קראו 1,000 דפים. ~~ קראת {0, number, integer} מתוך 1,000 דפים.
+Read 10,000 pages.~~Congratulations, you’ve read 10,000 pages.	קראו 10,000 דפים. ~~ מזל טוב, יצא לך לקרוא 10,000 דפים.
+Read 10,000 pages.~~Youʼve read {0, number, integer} of 10,000 pages.	קראו 10,000 דפים. ~~ קראת {0, number, integer} מתוך 10,000 דפים.
+Read 100 pages.~~Congratulations, you’ve read 100 pages.	קראו 100 דפים. ~~ מזל טוב, יצא לך לקרוא 100 דפים.
+Read 100 pages.~~Youʼve read {0, number, integer} of 100 pages.	קראו 100 דפים. ~~ קראת {0, number, integer} מתוך 100 דפים.
+Read 50 pages.~~Congratulations, you’ve read 50 pages.	קראו 50 דפים. ~~ מזל טוב, יצא לך לקרוא 50 דפים.
+Read 50 pages.~~Youʼve read {0, number, integer} of 50 pages.	קראו 50 דפים. ~~ קראת {0, number, integer} מתוך 50 דפים.
+Read 500 pages.~~Congratulations, you’ve read 500 pages.	קראו 500 דפים. ~~ מזל טוב, יצא לך לקרוא 500 דפים.
+Read 500 pages.~~Youʼve read {0, number, integer} of 500 pages.	קראו 500 דפים. ~~ קראת {0, number, integer} מתוך 500 דפים.
 Read a Book {0,choice,0#|2#({0,number,integer})}	קרא ספר {0,choice,0#|2#({0,number,integer})}
 Reset Badges	איפוס תוויות
 Serious Reader {0,choice,0#|2#({0,number,integer})}	קורא רציני {0,choice,0#|2#({0,number,integer})}

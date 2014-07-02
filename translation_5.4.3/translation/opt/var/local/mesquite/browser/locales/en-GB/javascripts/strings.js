@@ -2,12 +2,12 @@ Amazon	אמזון
 Another page with the same URL is already bookmarked.<br><br>Do you wish to overwrite it?	דף נוסף עם אותה כתובת URL כבר סימניה. <br> <br> האם ברצונך להחליף אותו?
 Article Mode	מצב מאמר
 BBC News	חדשות BBC
-Bookmark this Page	סימניה לדף זה
+Bookmark this Page	הוסף סימניה לדף זה
 Bookmarks	סימניות
 Browser Settings	הגדרות דפדפן
 Clear Cookies	נקה Cookies
 Clear History	נקה הסטוריה
-Disable Images	אל תצג תמונות
+Disable Images	בטל תצוגת תמונות
 Disable JavaScript	בטל JavaScript
 Download Failed	הורדה נכשלה
 Download File	הורד קובץ
@@ -50,7 +50,7 @@ Web Browser cannot download this kind of file.<p>Only files with the extension .
 Web Browser does not support file uploads.	דפדפן האינטרנט אינו תומך בהעלאת קבצים.
 Web Browser downloaded {filename} successfully.	דפדפן האינטרנט הורד {filename} בהצלחה.
 Web Browser is unable to establish a secure connection. Do you still want to proceed?	דפדפן האינטרנט אינו יכול ליצור חיבור מאובטח. האם להמשיך?
-Web Browser requires a Wi-Fi connection. &nbsp;Tap OK to establish a Wi-Fi connection.	דפדפן האינטרנט דורש חיבור Wi-Fi. &nbsp;הקש על אישור כדי ליצור חיבור Wi-Fi.
+Web Browser requires a Wi-Fi connection. &nbsp;Tap OK to establish a Wi-Fi connection.	דפדפן האינטרנט דורש חיבור אלחוטי. &nbsp;הקש על אישור כדי ליצור חיבור Wi-Fi.
 Web Browser was unable to download {filename}. &nbsp;Please try again later.	דפדפן אינטרנט לא הצליח להוריד קובץ {filename}. &nbsp;אנא נסה שוב מאוחר יותר.
 Web Mode	מצב אינטרנט
 Web	אינטרנט

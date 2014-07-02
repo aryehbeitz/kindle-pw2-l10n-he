@@ -52,7 +52,7 @@ Shelved Books ({0})	ספרים במדף ({0})
 Skip	דלג
 Start Following	התחל עקוב אחרי
 Stop Following	הפסק עקוב אחרי
-Tap here to connect to a Wi-Fi network~~to see the most recent activity.	הקש כאן כדי להתחבר לרשת אלחוטי ~ ~ כדי לראות את הפעילות האחרונה.
+Tap here to connect to a Wi-Fi network~~to see the most recent activity.	הקש כאן כדי להתחבר לרשת אלחוטי ~~ כדי לראות את הפעילות האחרונה.
 To update your name, sign in at Goodreads.com and select Edit Profile.	כדי לעדכן את השם שלך, היכנס בGoodreads.com ובחר עריכת פרופיל.
 View Reviews	הצג חוות דעת
 View in Store	הצג בחנות
@@ -81,17 +81,17 @@ shared an activity	שיטף פעילות
 {0,select,empty {No books have been added yet.} unknown {Loading…} other {}}	{0,select,empty {ספרים לא נוספו עדיין.} unknown {טוען…} other {}}
 {0,select,empty {No comments have been posted yet. Be the first to comment } unknown {Loading comments…} other {}}	{0,select,empty {עוד לא הוסיפו הערות. תהיה הראשול להוסיף הערה } unknown {טוען הערות…} other {}}
 {0,select,empty {No recent updates.} unknown {Loading…} other {}}	{0,select,empty {אין עדכונים חדשים.} unknown {טוען…} other {}}
-{0,select,empty {No updates have been posted yet.~~Tap here to follow suggested readers or add Facebook friends on Goodreads } unknown {Loading updates…} other {}}	{0,select,empty {לא פרסמו עדיין עדכונים. ~ ~ הקש כאן כדי לעקוב אחרי קוראים שאנו מציעים או הוסף חברים בפייסבוק לGoodreads } unknown {טוען עדכונים…} other {}}
+{0,select,empty {No updates have been posted yet.~~Tap here to follow suggested readers or add Facebook friends on Goodreads } unknown {Loading updates…} other {}}	{0,select,empty {לא פרסמו עדיין עדכונים. ~~ הקש כאן כדי לעקוב אחרי קוראים שאנו מציעים או הוסף חברים בפייסבוק לGoodreads } unknown {טוען עדכונים…} other {}}
 {0,select,empty {Not following any readers yet.} unknown {Loading…} other {}}	{0,select,empty {אינו עוקב אחרי קוראים עדיין.} unknown {טוען…} other {}}
 {0,select,empty {Start interacting with other readers by sharing your books, notes and highlights.} unknown {Loading…} other {}}	{0,select,empty {התחל באינטראקציה עם קוראים אחרים על ידי שיתוף הספרים, ההערות והדגשים שלך.} unknown {טוען…} other {}}
 {0,select,empty {Tap here to add books from your Amazon library } unknown {Loading…} other {}}	{0,select,empty {הקש כאן כדי להוסיף ספרים מספרייתך באמזון } unknown {טוען…} other {}}
 {0,select,empty {Tap here to be the first to add {1} as friend } empty_pending_friend {No friends yet.} unknown {Loading…} other {}}	{0,select,empty {הקש כאן כדי להיות הראשון להוסיף {1} כחבר } empty_pending_friend {אין חברים עדיין.} unknown {טוען…} other {}}
 {0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} other {}}	{0,select,empty {הקש כאן לעקוב אחרי קוראים שאנו מציעים או הוסף חברים מפייסבוק } unknown {טוען…} other {}}
-{0,select,empty {There arenʼt any books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} other {}}	{0,select,empty {אין עדיין ספרים בספרייה שלך. ~ ~ ראה מה החברים שלך קוראים } unknown {טוען ספרי אמזון…} other {}}
+{0,select,empty {There arenʼt any books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} other {}}	{0,select,empty {אין עדיין ספרים בספרייה שלך. ~~ ראה מה החברים שלך קוראים } unknown {טוען ספרי אמזון…} other {}}
 {0,select,empty {There arenʼt any books in your library. You can always add some later.} unknown {Loading Amazon books…} other {}}	{0,select,empty {אין עדיין ספרים בספרייה שלך. תמיד תוכל להוסיף קצת מאוחר יותר.} unknown {טוען ספרי אמזון…} other {}}
 {0,select,empty {There arenʼt currently any new readers for you to follow. Please try again later.} facebook_not_connected {There arenʼt currently any new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…} other {}}	{0,select,empty {אין עדיין קוראים חדשים לך לעקוב. אנא נסה שוב מאוחר יותר.} facebook_not_connected {אים עדיין קוראים חדשים לך לעקוב. הוסף את החברים שלך מפייסבוק לGoodreads } unknown {טוען קוראים מומלצים…} other {}}
 {0,select,empty {There arenʼt currently any reviews. Please try again later.} unknown {Loading Reviews…} other {}}	{0,select,empty {אין כעת חוות דעת. אנא נסה שוב מאוחר יותר.} unknown {טוען חוות דעת…} other {}}
-{0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} other {}}	{0,select,empty {אינך עוקב אחרי קוראים עדיין. ~ ~ הקש כאן כדי לעקוב אחרי קוראים שאני מציעים או להוסיף חברים מפייסבוק } unknown {טוען עוקבים…} other {}}
+{0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} other {}}	{0,select,empty {אינך עוקב אחרי קוראים עדיין. ~~ הקש כאן כדי לעקוב אחרי קוראים שאני מציעים או להוסיף חברים מפייסבוק } unknown {טוען עוקבים…} other {}}
 {0,select,empty {You do not have any followers yet.} unknown {Loading…} other {}}	{0,select,empty {אף אחד אינו עוקב אחריך עדיין.} unknown {טוען…} other {}}
 {0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} other {}}	{0,select,empty {אין לך חברים עדיין.~~הקש כאן לעקוב אחרי קוראים מוצעים או להוסיף חברים מפייסבוק } unknown {טוען חברים…} other {}}
 {0,select,empty {You donʼt currently have any followers.} unknown {Loading Followers…} other {}}	{0,select,empty {אין לך כעת עוקבים.} unknown {טטען עוקבים…} other {}}
