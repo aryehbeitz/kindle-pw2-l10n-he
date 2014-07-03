@@ -6,12 +6,12 @@ Front Light	אור קדמי
 Language and Dictionaries	שפות ומילונים
 Manage your Kindle language, keyboards and dictionaries.	נהל את שפת הקינדל, מקלדות ומילונים.
 Manage your Kindleʼs brightness and Night Light.	נהל בהירות האור 
-Manage your device name, personal info and content recommendations, and view your Send-to-Kindle e-mail address.	נהל את שם מכשירך, מידע אישי, המלצת תוכן, וכתובת הדואר האלקטרוני שלך לקבלת מסמכים לקינדל שלך.
+Manage your device name, personal info and content recommendations, and view your Send-to-Kindle e-mail address.	נהל שם מכשירך, מידע אישי, המלצת תוכן, ומייל לקבלת מסמכים.
 Not Enabled	לא מופעל
 Parental Controls Locked	בקרת הורים מופעל
 Parental Controls	בקרת הורים
 Personalise Your Kindle	התאמה אישית של קינדל שלך
-Set a passcode to protect the content on your Kindle.	הגדר סיסמא על מנת להגן על התוכן בקינדל שלך.
+Set a passcode to protect the content on your Kindle.	הגדר סיסמא להגן בתוכן בקינדל שלך.
 Set the local time on your Kindle.	קבע את הזמן המקומית בקינדל שלך.
 This is a managed device. Parental Controls are locked. For information, contact: {0}.	זהו מכשיר מנוהל. בקרת הורים מופעלת. לקבלת מידע, פנה ל: {0}.
-{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}	{0, select, true {הגדר את קינדל פריי-טיים ולהגביל את הגישה ל {1, select, true {דפדפן ניסיוני אינטרנט, חנות קינדל, ענן, ו Goodreads על הקינדל.} other {דפדפן אינטרנט ניסיוני, חנות קינדל, וענן.}}} other {הגבל גישה ל {1, select, true {דפדפן ניסיוני אינטרנט, חנות קינדל, ענן, ו Goodreads על הקינדל.} other {דפדפן אינטרנט ניסיוני, חנות קינדל, וענן.}}}}
+{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}	{0, select, true {הגדר פריי-טיים ונעל גישה ל {1, select, true {דפדפן, חנות, ענן, וGoodreads.} other {דפדפן, חנות, וענן.}}} other {הגבל גישה ל {1, select, true {דפדפן, חנות, ענן, וGoodreads} other {דפדפן, חנות קינדל, וענן.}}}}
