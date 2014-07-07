@@ -3,7 +3,9 @@
 <title>Kindle Paperwhite Hebrew Localisation</title>
 </head>
 <body>
-This is the Hebrew Localisation for the Kindle Paperwhite 2.<br>
+Let me just start by saying that I take no responsibility anything here. It works by me, but I take no responsibility. Using this can cause your Kindle to become totally unusable.<br>
+ I am willing to do the install for your Kindle Paperwhite 2 with an extra layer of protection which I can take responsibility for, just contact me.<br>
+This is the Hebrew Localisation for the Kindle Paperwhite 2.<br><br>
 It includes a Hebrew keyboard. Nikud features have yet to be implemented.<br>
 To install, follow the following steps:<br>
 1. Check the version of your Paperwhite. To do this, you press the menu from the Home screen, then on settings. Then you press again on the menu and press Device Info. If you version is 5.4.3.1 you can continue. If not, You have probably just purchased your Paperwhite and it will update automatically to the latest version when connected to Wi-fi.<br>
@@ -13,12 +15,13 @@ To install, follow the following steps:<br>
 5. English Interface with Hebrew keyboard. Press the Menu button from the Home screen, then on הגדרות then on הגדרות מכשיר, then on שפות ומילונים. Then press שינוי שפת המערכת then then select English (United States) and press OK. If will ask to restart, press OK.<br>
 6. In the English interface, you can make sure the Hebrew keyboard is installed by pressing the Menu button from the Home page, then Settings, Device Options, Language and Dictionaries, Keyboards. then make sure that both English (United States) and English (United Kingdom) are selected.<br>
 7. Addition, there is an English to Hebrew dictionary available. Download it <a href="http://hebrewkindle.tk/Babylon English-Hebrew Dictionary - MG Reversed Words.prc">here</a> and copy it to the documents/dictionaries/ folder on your Kindle. Then when you highlight a word, you can select additional dictionaries. By selecting this one, you get English words translated to Hebrew.<br>
+8. To uninstall, there is an additional file in the loc_he_5.4.3.1-test2.zip called Update_loc_he_5.4.3.1-test2_uninstall.bin which you can copy to the base directory of the Kindle and repeat the steps to do the update.
 Enjoy!<br>
 <br>
 I would very much appreciate corrections, which can be sent to me at <a href="mailto:aryehbeitz@gmail.com">aryehbeitz@gmail.com</a><br>
 <br>
 Known Bugs:<br>
-1. When the language is set to Hebrew, Parental controls seem not to work. In english, they work.<br>
+1. When the language is set to Hebrew, Parental controlsd seem not to work. In english, they work.<br>
 2. Some of the text in settings are cut off at the bottom<br>
 </body>
 </html>
