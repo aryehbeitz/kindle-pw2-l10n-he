@@ -4,5 +4,5 @@ Keyboards	מקלדת
 Language and Dictionaries	שפה ומילונים
 Language	שינוי שפת המערכת
 Set the default dictionary for each language.	הגדר מילון לכל שפה
-Set the language on your Kindle.	שפת המערכת הוא
-{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {ללא מקלדות} one {{0, number, integer} מקלדת} other {{0, number, integer} מקלדות}}
+Set the language on your Kindle.	שפת המערכת היא
+{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {ללא מקלדות~~} one {{0, number, integer} מקלדת~~} other {{0, number, integer} מקלדות~~}}
