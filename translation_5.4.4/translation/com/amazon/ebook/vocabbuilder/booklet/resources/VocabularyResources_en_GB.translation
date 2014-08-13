@@ -1,11 +1,11 @@
-About Vocabulary Builder	
-Books	
-Flashcards	
-Learning ({0,number,integer})	
-Mastered ({0,number,integer})	
-Vocabulary Builder	
-Words mastered: {0}	
-Words	
-{0,select,true {Learning ({1,number,integer}) } false {Learning ({1,number,integer})} other {}}	
-{0,select,true {Mastered ({1,number,integer}) } false {Mastered ({1,number,integer})} other {}}	
- Any Book	
+About Vocabulary Builder	אודות אוסף אוצר המילים#or#אודות אוסף מילים#or#אודות אוצר המילים#or#על אוצר המילים
+Books	xprho#or#ספרים
+Flashcards	כיטיסיות לימוד
+Learning ({0,number,integer})	 בלימוד ({0,number,integer})
+Mastered ({0,number,integer})	 נלמד היטב ({0,number,integer})
+Vocabulary Builder	אוסף מילים#or#אוצר המילים#or#אוצר מילים
+Words mastered: {0}	 מילים שנלמדו {0}#or#מילים שנלמדו היטב: {0}
+Words	מילים
+{0,select,true {Learning ({1,number,integer}) } false {Learning ({1,number,integer})} other {}}	{0,select,true {בלימוד ({1,number,integer}) } false {בלימוד ({1,number,integer})} other {}}
+{0,select,true {Mastered ({1,number,integer}) } false {Mastered ({1,number,integer})} other {}}	{0,select,true {נלמד היטב ({1,number,integer}) } false {נלמד היטב ({1,number,integer})} other {}}
+ Any Book	 כל ספר

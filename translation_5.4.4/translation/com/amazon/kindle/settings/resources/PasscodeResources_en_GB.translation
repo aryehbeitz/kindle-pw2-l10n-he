@@ -1,16 +1,16 @@
-Cancel	
-Change Passcode	
-Confirm New Passcode	
-Confirm Passcode	
-Create Passcode	
-Device Passcode	
-Enter Current Passcode	
-Enter New Passcode	
-Enter Passcode	
-Incorrect Passcode	
-Passcode Invalid	
-Passcodes Do Not Match	
-Please enter a valid passcode.	
-Please try again.	
-Turn Off Passcode	
-Your passcode must contain at least {0,number,integer} digits. Please try again.	
+Cancel	בטל#or#ביטול
+Change Passcode	החלף סיסמא
+Confirm New Passcode	אשר סיסמא חדשה
+Confirm Passcode	אשר סיסמא
+Create Passcode	צור סיסמא
+Device Passcode	סיסמת המכשיר#or#קוד הפעלה של מכשיר
+Enter Current Passcode	הקש סיסמא נוכחי
+Enter New Passcode	הקש סיסמא חדשה
+Enter Passcode	הזן את הסיסמה#or#הקש סיסמא
+Incorrect Passcode	סיסמא שגויה#or#סיסמה שגויה
+Passcode Invalid	סיסמא אינה תקינה
+Passcodes Do Not Match	סיסמאות אינן תואמות
+Please enter a valid passcode.	הקש סיסמא חוקית
+Please try again.	אנא נסה שוב
+Turn Off Passcode	כבה סיסמא
+Your passcode must contain at least {0,number,integer} digits. Please try again.	סיסמתך חייבת להכיל לפחות {0,number,integer} מספרים. אנא נסה שנית.

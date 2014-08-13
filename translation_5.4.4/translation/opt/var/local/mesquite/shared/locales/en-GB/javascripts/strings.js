@@ -1,14 +1,14 @@
-Cancel	
-Close	
-Connection Required	
-Edit	
-Menu	
-OK	
-Remove	
-Screen Light	
-Shop in Kindle Store	
-Turn Off Wireless	
-Turn On Wireless	
-Unable to Connect	
-Your Kindle is currently unable to connect.<br><br>Please try again later.	
-strings	
+Cancel	בטל#or#ביטול
+Close	סגור
+Connection Required	נדרש חיבור
+Edit	ערוך
+Menu	תפריט
+OK	אישור
+Remove	הסר
+Screen Light	אור מסך
+Shop in Kindle Store	לחנות קינדל#or#לקניות בחנות קינדל
+Turn Off Wireless	כבה אלחוטי
+Turn On Wireless	הפעל אלחוטי
+Unable to Connect	לא ניתן להתחבר
+Your Kindle is currently unable to connect.<br><br>Please try again later.	קינדל שלך הוא כרגע לא מצליח להתחבר. <br> <br> אנא נסה שוב מאוחר יותר.
+strings	strings

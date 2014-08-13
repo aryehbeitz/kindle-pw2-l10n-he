@@ -1,12 +1,12 @@
-Cancel	
-Date of Birth	
-Enter your childʼs name in their profile to keep track of their progress and achievements.	
-FreeTime Profile	
-FreeTime Profile: {0}	
-Gender	
-Improve Kindle book recommendations for your child by entering their date of birth.	
-Improve Kindle book recommendations for your child by entering their gender.	
-In the next step you can select books from your library to add to your childʼs library.	
-Name	
-Next	
-Step {0,number,integer}	
+Cancel	בטל#or#ביטול
+Date of Birth	תאריך לידה
+Enter your childʼs name in their profile to keep track of their progress and achievements.	הזן את שם ילדכם בפרופיל שלהם כדי לעקוב אחר התקדמותם והישגיהם.
+FreeTime Profile	פרופיל פריי-טיים
+FreeTime Profile: {0}	פרופיל פריי-טיים: {0}
+Gender	מין
+Improve Kindle book recommendations for your child by entering their date of birth.	שפר את המלצות ספר קינדל עבור הילד שלך על ידי הזנת תאריך לידה שלהם.
+Improve Kindle book recommendations for your child by entering their gender.	שפר את המלצות ספר קינדל עבור הילד שלך על ידי הזנת המין שלהם.
+In the next step you can select books from your library to add to your childʼs library.	בשלב הבא תוכל לבחור ספרים מהספרייה שלך כדי להוסיף לספרייה של ילדכם.
+Name	שם
+Next	הבא
+Step {0,number,integer}	 שלב {0,number,integer}

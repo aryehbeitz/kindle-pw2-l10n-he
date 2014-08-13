@@ -1,13 +1,13 @@
-Buy…	
-Cancel	
-Delete Activity	
-Delete	
-Get Sample or Buy...	
-If others have commented on this update, it will not be removed from their activity feed. Are you sure you want to delete this update?	
-Read Now	
-Refresh	
-Search Store	
-View Book Activity	
-View Reviews	
-View in Store	
-{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	
+Buy…	רכוש…
+Cancel	בטל#or#ביטול
+Delete Activity	מחק פעילות
+Delete	מחק
+Get Sample or Buy...	השג מדגם או רכוש
+If others have commented on this update, it will not be removed from their activity feed. Are you sure you want to delete this update?	אם אחרים לא הגיבו על עדכון זה, זה לא יוסר מהעדכון של הפעילות שלהם. האם אתה בטוח שברצונך למחוק את עדכון זה?
+Read Now	קרא כעת
+Refresh	רענון#or#רענן
+Search Store	חפש בחנות#or#חפשו בחנות
+View Book Activity	הצג פעילות הספר
+View Reviews	הצג חוות דעת#or#הצג סקירות
+View in Store	הצג בחנות
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {הערה} one {הערה ({0,number,integer})} other {הערות ({0,number,integer})}}

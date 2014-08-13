@@ -1,89 +1,89 @@
-Add Note	
-Already at furthest read location.	
-Beginning	
-Book Description	
-Buy This Book Now	
-Cancel	
-Close	
-Contrast	
-Cover	
-Darkest	
-Delete Note	
-Delete	
-Edit Note	
-End	
-Enter a location ({0} - {1})	
-Enter a page (1 - {0}) or location ({1} - {2})	
-Enter a page (1 - {0})	
-Enter a page ({0}) or location ({1} - {2})	
-Enter a page ({0})	
-Enter a page or location ({1} - {2})	
-Enter a page	
-Enter password: 	
-Fonts	
-Go To	
-Go to Page or Location	
-Go to...	
-Highlight	
-Incorrect Password	
-Incorrect password. Please try again.	
-Lightest	
-Line spacing	
-Loc {0} of {1}	
-Loc {0}	
-Location	
-Lock Rotation	
-Low Memory	
-Margins	
-More Options	
-More	
-Normal	
-Note	
-Page 	
-Page or Location	
-Page {0} of {1}	
-Page {0}	
-Password-Protected	
-Publisher Font	
-Retrieving furthest page read...	
-Save	
-Settings	
-Share	
-Shared Notes & Highlights	
-Shop in Kindle Store	
-Submit	
-Sync Results	
-Sync to Furthest Page Read	
-Sync	
-Table of Contents	
-Table of Contents...	
-There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
-This PDF is password-protected.	
-To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	
-Unable to Sync	
-Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	
-Unlock Rotation	
-View Note	
-View in Store	
-You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	
-You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	
-You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book across all your devices. Go to the furthest place read?	
-You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
-You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	
-You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	
-You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	
-You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	
-You are currently on page {0}. You have read further than this page across all your devices. Go to the furthest place read?	
-darker	
-darkest	
-default	
-lighter	
-lightest	
-on {7,date,long}	
-today	
-yesterday	
+Add Note	הוסף הערה
+Already at furthest read location.	בר נמאים במקום קריאה המתקדם
+Beginning	התחלה
+Book Description	תיאור ספר
+Buy This Book Now	רכוש ספר זה עכשיו
+Cancel	בטל
+Close	סגור
+Contrast	נגדיות
+Cover	דף ראשי
+Darkest	הכי כהה
+Delete Note	מחק הערה
+Delete	מחק
+Edit Note	עבוך הערה
+End	סוף
+Enter a location ({0} - {1})	הזן מיקום ({0} - {1})
+Enter a page (1 - {0}) or location ({1} - {2})	הזן עמוד (1 - {0}) או מיקום ({1} - {2})
+Enter a page (1 - {0})	הזן עמוד (1 - {0})
+Enter a page ({0}) or location ({1} - {2})	הזן עמוד ({0}) או מיקום ({1} - {2})
+Enter a page ({0})	הזן עמוד ({0})
+Enter a page or location ({1} - {2})	הזן עמוד או מיקום ({1} - {2})
+Enter a page	הכנס מספר עמוד
+Enter password: 	הכנס סיסמא:
+Fonts	גופנים
+Go To	עבור אל
+Go to Page or Location	עבור אל עמוד או מיקום
+Go to...	עבור אל...
+Highlight	סמן
+Incorrect Password	סיסמא שגוייה
+Incorrect password. Please try again.	סוסמא סגוייה, נסה שוב
+Lightest	הכי כהה
+Line spacing	מרווח שורות
+Loc {0} of {1}	מיקום {0} מתוך {1}
+Loc {0}	 מיקום {0}#or#מיקום {0}
+Location	מיקום
+Lock Rotation	נעילת סיבוב
+Low Memory	זכרון נמוך
+Margins	מרווחי עמוד
+More Options	עוד הגדרות
+More	עוד
+Normal	רגיל
+Note	הערה
+Page 	עמוד
+Page or Location	עמוד או מיקו
+Page {0} of {1}	עמוד {0} מיתוך {1}#or# עמוד {0} מתוך {1}#or#עמוד {0} מתוך {1}
+Page {0}	עמוד {0}
+Password-Protected	דמור על ידי סיסמא
+Publisher Font	גופן המוציר לאור
+Retrieving furthest page read...	מקבל עמוד האחרון
+Save	שמור
+Settings	הגדרות
+Share	שטף
+Shared Notes & Highlights	הערות וסימונים משותפים
+Shop in Kindle Store	לחנות קינדל
+Submit	שלח
+Sync Results	סינכרון תוצאות
+Sync to Furthest Page Read	סנכרון לדף הרחוק ביותר שקראת#or#סנכרן לעמור הרחוקה שנקרא
+Sync	סנכרון
+Table of Contents	תוכן העניינים
+Table of Contents...	תוכן העניינים...
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	אין זיכרון הקינדל מספיק כדי להוסיף או לערוך הערות או סימנים על מסמך זה. בבקשה לעשות יותר זיכרון הקינדל זמין על ידי הסרת תוכן מהמסך הבית.
+This PDF is password-protected.	הקובץ PDF מוגן על ידי סיסמא
+To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	כדי לסנכרן להדף הרחוקה, גיבוי ההערות חייב להיות מופעל. עבור להגדרות מהתפריט במסך הבית, בחר אפשרויות הקראה, ולאחר מכן גיבוי ההערות.
+Unable to Sync	אין אפשרות לסינכרון#or#לא ניתם לסנכרן#or#לא ניתן לסנכרן
+Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	לא ניתן לאחזר את קריאת המיקום המרוחקת. אם זו הפעם הראשונה שפתחת את הספר הזה, המכשיר שלך יעדכן את המיקום שלך כאשר אתה סוגר את הספר או כאשר המכשיר שלך הולך לישון.
+Unlock Rotation	בטל נעילת סיבוב
+View Note	הצג הערה
+View in Store	הצג בחנות
+You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	אתה נמצא כעת במיקום {0}. המיקום הרחוק שנקרא על פני כל המכשירים שלך הוא {2}. עבור למיקום זה?
+You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	אתה נמצא כעת במיקום {0}. המיקום הרחוק שקרא הוא {2} מ "{4}" ב{5,time,short} {6}. עבור למיקום זה?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	אתה כרגע על דף לא ממוספר, {1,number,percent} לתוך הספר. הדף הרחוק ביותר שקראת הוא דף לא ממוספר, {3,number,percent} בתוך הספר מ "{4}" ב {5,time,short} {6}. עבור לדף זה?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	אתה כרגע בדף לא ממוספר, {1,number,percent} בתוך הספר. הדף הרחוק ביותר שקראת הוא {2}, {3,number,percent} בתוך הספר, מ "{4}" ב {5,time,short} {6}. עבור לדף זה?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	אתה כרגע בדף לא ממוספר, {1,number,percent} בתוך הספר. הדף הרחוק ביותר שקראת על פני כל המכשירים שלך הוא דף לא ממוספר, {3,number,percent} בתוך הספר. עבור לדף זה?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	אתה כרגע בדף לא ממוספר, {1,number,percent} בתוך בספר. הדף הרחוק ביותר שקראת על פני כל המכשירים שלך הוא {2}, {3,number,percent} בתוך הספר. עבור לדף זה?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book across all your devices. Go to the furthest place read?	אתה כרגע בדף לא ממוספר, {1,number,percent} בתוך הספר. בכל המכשירים שלך, קראת למיקום יותר מרוחק. האם לעבור לשם?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further in this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	אתה כרגע בדף לא ממוספר, {1,number,percent} בתוך הספר. קראת עוד בספר זה, מ "{4}" ב {5,time,short} {6}. עבור למקום המרוחק שקראת?
+You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	אתה כרגע בדף {0}, {1,number,percent} בתוך הספר. הדף המרוחק שנקרא הוא דף לא ממוספר, {3,number,percent} בתוך הספר, מ "{4}" ב {5,time,short} {6}. עבור לדף זה?
+You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	אתה כרגע נמצע על דף {0}, {1,number,percent} בתוך הספר. הדף הרחוק ביותר שקראת על פני כל המכשירים שלך הוא דף לא ממוספר, {3,number,percent} בתוך הספר. עבור לדף זה?
+You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	אתה כרגע נמצא בדף {0}. הדף הרחוק שקראת הוא {2}, מ "{4}" ב {5,time,short} {6}. עבור לדף זה?
+You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	אתה כרגע בדף {0}. הדף הרחוק ביותר שקראת על פני כל המכשירים שלך הוא {2}. עבור לדף זה?
+You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	אתה כרגע נמצע על דף {0}. קראת רחוק יותר מדף זה, מ "{4}" ב {5,time,short} {6}. עבור לנקודה הרחוקה ביותר שקראת?
+You are currently on page {0}. You have read further than this page across all your devices. Go to the furthest place read?	אתה כרגע נמצא בדף {0}. קראת רחוק יותר מדף זה על פני כל במכשירים שלך. עבור לנקודה הרחוקה ביותר שקראת?
+darker	יותר כהה
+darkest	הכי כהה
+default	ברירת מחדל
+lighter	יותר בהיר
+lightest	הכי ההיר
+on {7,date,long}	ב {7,date,long}
+today	היום
+yesterday	אתמול

@@ -5,6 +5,7 @@
     "candidate_border" : 5,
     "candidate_separation" : 25,
     "candidate_height" : 49,
+    "candidate_list_can_expand" : true,
 
     "keyboard_height" : 303,
     "keyboard_x_gap" : 4,
@@ -29,16 +30,30 @@
                     "y": 222 
                 },
                 {
-                    "width": 426,
-                    "label": "space",
-                    "value": " ",
+                    "width": 71,
+                    "label": ".",
+                    "value": ".",
                     "x": 130,
                     "y": 222 
                 },
                 {
+                    "width": 284,
+                    "label": "רווח",
+                    "value": " ",
+                    "x": 201,
+                    "y": 222 
+                },
+                {
                     "width": 71,
-                    "label": ".",
-                    "value": ".",
+                    "label": ",",
+                    "value": ",",
+                    "x": 485,
+                    "y": 222 
+                },
+                {
+                    "width": 71,
+                    "label": "。",
+                    "value": "。",
                     "x": 556,
                     "y": 222 
                 },
@@ -75,16 +90,30 @@
                     "y": 222 
                 },
                 {
-                    "width": 355,
-                    "label": "space",
-                    "value": " ",
+                    "width": 71,
+                    "label": ".",
+                    "value": ".",
                     "x": 201,
                     "y": 222 
                 },
                 {
+                    "width": 213,
+                    "label": "רווח",
+                    "value": " ",
+                    "x": 272,
+                    "y": 222 
+                },
+                {
                     "width": 71,
-                    "label": ".",
-                    "value": ".",
+                    "label": ",",
+                    "value": ",",
+                    "x": 485,
+                    "y": 222 
+                },
+                {
+                    "width": 71,
+                    "label": "。",
+                    "value": "。",
                     "x": 556,
                     "y": 222 
                 },
@@ -114,7 +143,7 @@
                 },
                 {
                     "width": 426,
-                    "label": "space",
+                    "label": "רווח",
                     "value": " ",
                     "x": 130,
                     "y": 222 
@@ -160,7 +189,7 @@
                 },
                 {
                     "width": 355,
-                    "label": "space",
+                    "label": "רווח",
                     "value": " ",
                     "x": 201,
                     "y": 222 
@@ -191,129 +220,130 @@
             "modifier" : 0,
             "keys": [
                 {
-                    "label": "q",
-                    "value": "q",
+                    "label": "ק",
+                    "value": "ק",
                     "x": 24,
                     "y": 9 
                 },
                 {
-                    "label": "w",
-                    "value": "w",
+                    "label": "ר",
+                    "value": "ר",
                     "x": 95,
                     "y": 9 
                 },
                 {
                     "hold" : 3,
-                    "label": "e",
-                    "value": "e",
+                    "label": "א",
+                    "value": "א",
                     "x": 166,
                     "y": 9 
                 },
                 {
-                    "label": "r",
-                    "value": "r",
+                    "label": "ט",
+                    "value": "ט",
                     "x": 237,
                     "y": 9 
                 },
                 {
-                    "label": "t",
-                    "value": "t",
+                    "label": "ו",
+                    "value": "ו",
                     "x": 308,
                     "y": 9 
                 },
                 {
                     "hold" : 9,
-                    "label": "y",
-                    "value": "y",
+                    "label": "ן",
+                    "value": "ן",
                     "x": 379,
                     "y": 9 
                 },
                 {
                     "hold" : 8,
-                    "label": "u",
-                    "value": "u",
+                    "label": "ם",
+                    "value": "ם",
                     "x": 450,
                     "y": 9 
                 },
                 {
                     "hold" : 4,
-                    "label": "i",
-                    "value": "i",
+                    "label": "פ",
+                    "value": "פ",
                     "x": 521,
-                    "y": 9 
+                    "y": 9
                 },
-                {
-                    "hold" : 6,
-                    "label": "o",
-                    "value": "o",
+{
+                    "width": 142,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
                     "x": 592,
                     "y": 9 
                 },
                 {
-                    "label": "p",
-                    "value": "p",
-                    "x": 663,
-                    "y": 9 
-                },
-                {
                     "hold" : 1,
-                    "label": "a",
-                    "value": "a",
-                    "x": 59,
+                    "label": "ש",
+                    "value": "ש",
+                    "x": 24,
                     "y": 80 
                 },
                 {
                     "hold" : 7,
-                    "label": "s",
-                    "value": "s",
-                    "x": 130,
+                    "label": "ד",
+                    "value": "ד",
+                    "x": 95,
                     "y": 80 
                 },
                 {
                     "hold": 10,
-                    "label": "d",
-                    "value": "d",
-                    "x": 201,
+                    "label": "ג",
+                    "value": "ג",
+                    "x": 166,
                     "y": 80 
                 },
                 {
-                    "label": "f",
-                    "value": "f",
-                    "x": 272,
+                    "label": "כ",
+                    "value": "כ",
+                    "x": 237,
                     "y": 80 
                 },
                 {
-                    "label": "g",
-                    "value": "g",
-                    "x": 343,
+                    "label": "ע",
+                    "value": "ע",
+                    "x": 308,
                     "y": 80 
                 },
                 {
-                    "label": "h",
-                    "value": "h",
-                    "x": 414,
+                    "label": "י",
+                    "value": "י",
+                    "x": 379,
                     "y": 80 
                 },
                 {
-                    "label": "j",
-                    "value": "j",
-                    "x": 485,
+                    "label": "ח",
+                    "value": "ח",
+                    "x": 450,
                     "y": 80 
                 },
                 {
-                    "label": "k",
-                    "value": "k",
-                    "x": 556,
+                    "label": "ל",
+                    "value": "ל",
+                    "x": 521,
                     "y": 80 
                 },
                 {
-                    "label": "l",
-                    "value": "l",
-                    "x": 627,
+                    "label": "ך",
+                    "value": "ך",
+                    "x": 592,
                     "y": 80 
                 },
                 {
-                    "width": 106,
+                    "label": "ף",
+                    "value": "ף",
+                    "x": 663,
+                    "y": 80 
+                },
+                {
+                    "width": 71,
                     "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
                     "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
                     "value": "!!shift",
@@ -321,55 +351,59 @@
                     "y": 151 
                 },
                 {
-                    "label": "z",
-                    "value": "z",
-                    "x": 130,
+                    "label": "ז",
+                    "value": "ז",
+                    "x": 95,
                     "y": 151 
                 },
                 {
-                    "label": "x",
-                    "value": "x",
-                    "x": 201,
+                    "label": "ס",
+                    "value": "ס",
+                    "x": 166,
                     "y": 151 
                 },
                 {
                     "hold" : 2,
-                    "label": "c",
-                    "value": "c",
-                    "x": 272,
+                    "label": "ב",
+                    "value": "ב",
+                    "x": 237,
                     "y": 151 
                 },
                 {
-                    "label": "v",
-                    "value": "v",
-                    "x": 343,
+                    "label": "ה",
+                    "value": "ה",
+                    "x": 308,
                     "y": 151 
                 },
                 {
-                    "label": "b",
-                    "value": "b",
-                    "x": 414,
+                    "label": "נ",
+                    "value": "נ",
+                    "x": 379,
                     "y": 151 
                 },
                 {
                     "hold" : 5,
-                    "label": "n",
-                    "value": "n",
-                    "x": 485,
+                    "label": "מ",
+                    "value": "מ",
+                    "x": 450,
                     "y": 151 
                 },
                 {
-                    "label": "m",
-                    "value": "m",
-                    "x": 556,
+                    "label": "צ",
+                    "value": "צ",
+                    "x": 521,
                     "y": 151 
                 },
                 {
-                    "width": 107,
-                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
-                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
-                    "value": "!!back",
-                    "x": 627,
+                    "label": "ת",
+                    "value": "ת",
+                    "x": 592,
+                    "y": 151 
+                },
+                {
+                    "label": "ץ",
+                    "value": "ץ",
+                    "x": 663,
                     "y": 151 
                 }
             ] 
@@ -451,57 +485,64 @@
                     "hold" : 101,
                     "label": "A",
                     "value": "A",
-                    "x": 59,
+                    "x": 24,
                     "y": 80 
                 },
                 {
                     "hold" : 107,
                     "label": "S",
                     "value": "S",
-                    "x": 130,
+                    "x": 95,
                     "y": 80 
                 },
                 {
                     "hold": 110,
                     "label": "D",
                     "value": "D",
-                    "x": 201,
+                    "x": 166,
                     "y": 80 
                 },
                 {
                     "label": "F",
                     "value": "F",
-                    "x": 272,
+                    "x": 237,
                     "y": 80 
                 },
                 {
                     "label": "G",
                     "value": "G",
-                    "x": 343,
+                    "x": 308,
                     "y": 80 
                 },
                 {
                     "label": "H",
                     "value": "H",
-                    "x": 414,
+                    "x": 379,
                     "y": 80 
                 },
                 {
                     "label": "J",
                     "value": "J",
-                    "x": 485,
+                    "x": 450,
                     "y": 80 
                 },
                 {
                     "label": "K",
                     "value": "K",
-                    "x": 556,
+                    "x": 521,
                     "y": 80 
                 },
                 {
                     "label": "L",
                     "value": "L",
-                    "x": 627,
+                    "x": 592,
+                    "y": 80 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ":",
+                    "value": ":",
+                    "x": 663,
                     "y": 80 
                 },
                 {
@@ -661,37 +702,34 @@
                     "y": 9 
                 },
                 {
-                    "label": "£",
-                    "value": "£",
+                    "label": "、",
+                    "value": "、",
                     "x": 59,
-                    "y": 80 
-                },
-                {
-                    "modifier" : 1,
-                    "label": "&",
-                    "value": "&",
-                    "x": 130,
                     "y": 80 
                 },
                 {
                     "modifier" : 1,
                     "label": "(",
                     "value": "(",
-                    "x": 201,
+                    "x": 130,
                     "y": 80 
                 },
                 {
                     "modifier" : 1,
                     "label": ")",
                     "value": ")",
+                    "x": 201,
+                    "y": 80 
+                },
+                {
+                    "label": "“",
+                    "value": "“",
                     "x": 272,
                     "y": 80 
                 },
                 {
-                    "modifier" : 1,
-                    "hold": 200,
-                    "label": "\"",
-                    "value": "\"",
+                    "label": "”",
+                    "value": "”",
                     "x": 343,
                     "y": 80 
                 },
@@ -723,10 +761,17 @@
                 },
                 {
                     "modifier" : 1,
+                    "label": "&",
+                    "value": "&",
+                    "x" : 130,
+                    "y" : 151
+                },
+                {
+                    "modifier" : 1,
                     "hold": 201,
                     "label": "!",
                     "value": "!",
-                    "x": 201,
+                    "x": 272,
                     "y": 151 
                 },
                 {
@@ -734,31 +779,24 @@
                     "hold": 202,
                     "label": "?",
                     "value": "?",
-                    "x": 272,
+                    "x": 343,
                     "y": 151 
                 },
                 {
-                    "modifier" : 1,
-                    "label": ":",
-                    "value": ":",
-                    "x": 343,
+                    "label": "⟪",
+                    "value": "⟪",
+                    "x": 414,
+                    "y": 151 
+                },
+                {
+                    "label": "⟫",
+                    "value": "⟫",
+                    "x": 485,
                     "y": 151 
                 },
                 {
                     "label": ";",
                     "value": ";",
-                    "x": 414,
-                    "y": 151 
-                },
-                {
-                    "label": ",",
-                    "value": ",",
-                    "x": 485,
-                    "y": 151 
-                },
-                {
-                    "label": "…",
-                    "value": "…",
                     "x": 556,
                     "y": 151 
                 },
@@ -784,7 +822,7 @@
                     "modifier" : 1,
                     "label": "@",
                     "value": "@",
-                    "x": 130,
+                    "x": 201,
                     "y": 151 
                 },
                 {
@@ -806,7 +844,7 @@
                 {
                     "label": "÷",
                     "value": "÷",
-                    "x": 130,
+                    "x": 201,
                     "y": 151 
                 },
                 {
@@ -866,16 +904,14 @@
                     "y": 9 
                 },
                 {
-                    "modifier" : 1,
-                    "label": "{",
-                    "value": "{",
+                    "label": "【",
+                    "value": "【",
                     "x": 450,
                     "y": 9 
                 },
                 {
-                    "modifier" : 1,
-                    "label": "}",
-                    "value": "}",
+                    "label": "】",
+                    "value": "】",
                     "x": 521,
                     "y": 9 
                 },
@@ -905,31 +941,31 @@
                     "y": 80 
                 },
                 {
-                    "label": "¬",
-                    "value": "¬",
+                    "label": "…",
+                    "value": "…",
                     "x": 201,
-                    "y": 80 
+                    "y": 80
                 },
                 {
-                    "label": "`",
-                    "value": "`",
+                    "label": "—",
+                    "value": "—",
                     "x": 272,
-                    "y": 80 
-                },
-                {
-                    "hold": 205,
-                    "label": "<",
-                    "value": "<",
-                    "x": 343,
-                    "y": 80 
+                    "y": 80
                 },
                 {
                     "modifier" : 1,
                     "hold": 204,
                     "label": ">",
                     "value": ">",
+                    "x": 343,
+                    "y": 80
+                },
+                {
+                    "hold": 205,
+                    "label": "<",
+                    "value": "<",
                     "x": 414,
-                    "y": 80 
+                    "y": 80
                 },
                 {
                     "modifier" : 1,
@@ -973,33 +1009,34 @@
                     "y": 151 
                 },
                 {
-                    "label": "§",
-                    "value": "§",
-                    "x": 272,
-                    "y": 151 
-                },
-                {
                     "label": "¢",
                     "value": "¢",
-                    "x": 343,
-                    "y": 151 
-                },
-                {
-                    "label": "¥",
-                    "value": "¥",
-                    "x": 414,
-                    "y": 151 
-                },
-                {
-                    "label": "€",
-                    "value": "€",
-                    "x": 485,
+                    "x": 272,
                     "y": 151 
                 },
                 {
                     "modifier" : 1,
                     "label": "$",
                     "value": "$",
+                    "x": 343,
+                    "y": 151 
+                },
+
+                {
+                    "label": "€",
+                    "value": "€",
+                    "x": 414,
+                    "y": 151 
+                },
+                {
+                    "label": "£",
+                    "value": "£",
+                    "x": 485,
+                    "y": 151 
+                },
+                {
+                    "label": "¥",
+                    "value": "¥",
                     "x": 556,
                     "y": 151 
                 },
@@ -1045,8 +1082,8 @@
                 {
                     "hold" : 300,
                     "width": 99,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 329,
                     "y": 222 
                 },
@@ -1114,8 +1151,8 @@
                 {
                     "hold" : 300,
                     "width": 86,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 371,
                     "y": 222 
                 },
@@ -1175,8 +1212,8 @@
                 {
                     "hold" : 300,
                     "width": 99,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 329,
                     "y": 222 
                 },
@@ -1244,8 +1281,8 @@
                 {
                     "hold" : 300,
                     "width": 86,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 371,
                     "y": 222 
                 },
@@ -2311,7 +2348,7 @@
                 {
                     "label": ".org",
                     "value": ".org",
-                    "x": 38,
+                    "x": 31,
                     "y": -50 
                 },
                 {
@@ -2339,15 +2376,14 @@
                     "y": -50 
                 },
                 {
-                    "label": ".com",
-                    "value": ".com",
+                    "label": ".cn",
+                    "value": ".cn",
                     "x": 528,
                     "y": -50 
                 },
                 {
-                    "width" : 114,
-                    "label": ".co.uk",
-                    "value": ".co.uk",
+                    "label": ".com",
+                    "value": ".com",
                     "x": 627,
                     "y": -50 
                 }

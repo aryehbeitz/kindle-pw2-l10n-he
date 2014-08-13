@@ -1,8 +1,8 @@
-Continue setup	
-Hello {0}	
-Tap here to adjust this.	
-The local time zone will be set using the Wi-Fi or mobile networks detected by your Kindle.	
-Use a different account	
-Your Kindleʼs time has been adjusted to {0,time,short}.	
-Your Kindleʼs time is set to {0,time,short}.	
-here	
+Continue setup	המשך התקנה
+Hello {0}	שלום {0}
+Tap here to adjust this.	הקש כאן לשנות זה.
+The local time zone will be set using the Wi-Fi or mobile networks detected by your Kindle.	אזור הזמן המקומי ייקבע באמצעות שרתות אלחוטי או סלולרי שזוהו על ידי קינדל שלך.
+Use a different account	השתמש בחשבון אחר
+Your Kindleʼs time has been adjusted to {0,time,short}.	הזמן במכשירך הקינדל הוקבע ל {0,time,short}.
+Your Kindleʼs time is set to {0,time,short}.	הזמן במכשירך הקינדל הוקבע ל {0,time,short}.
+here	כאן

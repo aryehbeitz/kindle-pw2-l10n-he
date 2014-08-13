@@ -1,26 +1,26 @@
-A link to the book will be included with your message.	
-A link to the passage will be included with your message.	
-Cancel	
-Clipping Error	
-Close	
-Communication Error	
-Enter Your Message	
-Invalid Social Networks	
-Manage	
-Message Shared	
-One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.	
-Register	
-Share	
-Sharing Failed	
-Sharing Not Supported	
-Sharing Unavailable	
-Social Networks Not Registered	
-The sharing service encountered a communication error. Please try again later.	
-The sharing service encountered an unrecoverable error. Sharing cancelled.	
-The sharing service is currently unavailable. Please try again later.	
-This content does not support sharing.	
-Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	
-Unable to share. You have reached the clipping limit for this item set by the publisher.	
-Unable to share. You have reached the clipping limit for this item.	
-Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.	
-{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}	
+A link to the book will be included with your message.	קישור לספר ייכלל עם המסר שלך.
+A link to the passage will be included with your message.	קישור לקטע ייכלל עם המסר שלך.
+Cancel	בטל#or#ביטול
+Clipping Error	שגיאת בפעולת אסיפה#or#שגיעה באיסוף
+Close	סגור
+Communication Error	שגיאת תקשורת
+Enter Your Message	הקלד הודעתך
+Invalid Social Networks	תקלה ברשתות חברתיות
+Manage	נהל
+Message Shared	הודעתך שותפה
+One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.	אחד או יותר מהרשתות החברתיות הרשומים על קינדל שלך אינם מוגדרות כהלכה. בחירה נהל מתחת תיפתח דף ניהול אינטרנט הרשתות החברתיות שלך, כך שתוכל להזין את פרטי החשבון שלך. כאשר השינויים שלך יהיו מלאים, בחר המשך הקריאה לחזור לפריט זה.
+Register	הרשם
+Share	שטף
+Sharing Failed	שיתוף נכשל
+Sharing Not Supported	שיתוף לא נתמך
+Sharing Unavailable	שיתוף אינה זמינה
+Social Networks Not Registered	רשתות חברותיות אינן רשומות
+The sharing service encountered a communication error. Please try again later.	שירות השיתוף נתקל בשגיאת תקשורת. אנא נסה שוב מאוחר יותר.
+The sharing service encountered an unrecoverable error. Sharing cancelled.	שירות השיתוף נתקל בשגיאה בלתי הפיכה. שיתוף בוטל.
+The sharing service is currently unavailable. Please try again later.	שירות השיתוף אינו זמין כעת. אנא נסה שוב מאוחר יותר.
+This content does not support sharing.	תוכן זה אינו תומך בשיתוף.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	לא ניתן לשתף. אתה הגעת למגבלת האסוף עבור פריט זה שנקבע על ידי המוציא לאור, {0}.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	לא ניתן לשתף. אתה הגעת למגבלת האסוף עבור פריט זה שנקבע על ידי המוציא לאור.
+Unable to share. You have reached the clipping limit for this item.	לא ניתן לשתף. אתה הגעת למגבלת האסוף עבור פריט זה.
+Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.	הקינדל שלך אינו רשום בשום רשת חברתיות. בחר הרשם מתחת, ותיפתח דף ניהול אינטרנט הרשתות החברתיות שלך, כך שתוכל להזין את פרטי החשבון שלך. כאשר הרישום שלך יהיה מלא, בחר להמשיך לקרוא כדי לחזור לפריט זה.
+{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}	{0,select, left {{1,plural, =0 {אין תווים שנותרו} one {{1} תווים נותרו} other {{1} תווים נותרו}}} over {{1,plural, one {{1} תו מעבר} other {{1} תווים מעבר}}} other {}}

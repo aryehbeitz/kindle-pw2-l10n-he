@@ -1,7 +1,7 @@
-About Vocabulary Builder	
-Delete	
-Dictionary	
-Master	
-Usage	
-Vocabulary Builder helps you learn new words as you read.~~~~Words that you looked up in the dictionary whilst reading appear here automatically. You can then view Flashcards or review usage examples for those words.~~~~To turn it off, go to Settings, Reading Options, and Vocabulary Builder.	
-{0,select,learning {Learning} mastered {Mastered} other {}}	
+About Vocabulary Builder	אודות אוסף אוצר המילים#or#אודות אוסף מילים#or#אודות אוצר המילים#or#על אוצר המילים
+Delete	מחק
+Dictionary	מילון
+Master	מאסטר
+Usage	שימוש
+Vocabulary Builder helps you learn new words as you read.~~~~Words that you looked up in the dictionary whilst reading appear here automatically. You can then view Flashcards or review usage examples for those words.~~~~To turn it off, go to Settings, Reading Options, and Vocabulary Builder.	אוסף אוצר המילים מסייע לך ללמוד מילות חדשות בזמן שאתה קורא. ~~ ~~ מילות שאתה בדקת את הגדרתם במילון תוך קריאה מופיעות כאן באופן אוטומטי. לאחר מכן תוכל להציג כרטיסיות או דוגמאות שימוש למילים האלה. ~~ ~~ כדי לכבות אותו, פתח הגדרות, אפשרויות קריאה, ואוסף אוצר המילים.
+{0,select,learning {Learning} mastered {Mastered} other {}}	{0,select,learning {בלימוד} mastered {נלמד היטב} other {}}

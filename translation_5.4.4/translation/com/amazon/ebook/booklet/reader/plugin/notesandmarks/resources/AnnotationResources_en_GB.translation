@@ -1,33 +1,33 @@
-All Notes & Marks ({0,number,integer})	
-All	
-Bookmarks	
-Delete	
-Edit	
-Go To	
-Go to Location	
-Go	
-Highlights	
-Items {0,number,integer} of {1,number,integer}	
-Items {0,number,integer}-{1,number,integer} of {2,number,integer}	
-Note {0}	
-Notes & Marks ({0,number,integer}) ·	
-Notes & Marks	
-Notes	
-Popular Highlights ({0,number,integer})	
-Popular Highlights	
-Public Notes ({0,number,integer})	
-Public Notes from {0}.	
-Public Notes	
-Show	
-Show...	
-View Notes & Marks	
-Your Bookmarks ({0,number,integer})	
-Your Highlights ({0,number,integer})	
-Your Notes & Marks ({0,number,integer})	
-Your Notes ({0,number,integer})	
-Yours	
-{0,number,integer} of {1,number,integer}	
-{0} highlighted this passage.	
-{0} · Page {1} - {2}	
-{0}’s Highlight	
-{0}’s Note	
+All Notes & Marks ({0,number,integer})	כל הערות וסימונים ({0,number,integer})
+All	הכל
+Bookmarks	סימניות
+Delete	מחק
+Edit	ערוך
+Go To	עבור אל
+Go to Location	עבור אל מיקום
+Go	סע
+Highlights	סימונים
+Items {0,number,integer} of {1,number,integer}	פריטים {0,number,integer} מתוך {1,number,integer}
+Items {0,number,integer}-{1,number,integer} of {2,number,integer}	פריטים {0,number,integer}-{1,number,integer} מתוך {2,number,integer}
+Note {0}	הערה {0}
+Notes & Marks ({0,number,integer}) ·	הערות וסימונים ({0,number,integer}) ·
+Notes & Marks	הערות ומימונים
+Notes	הערות
+Popular Highlights ({0,number,integer})	({0,number,integer}) הערות פופולריות
+Popular Highlights	הערות פופולאריות
+Public Notes ({0,number,integer})	({0,number,integer}) הערות ציבוריות
+Public Notes from {0}.	הערות ציבוריות מ {0}.
+Public Notes	הערות ציבור
+Show	הצג
+Show...	הצג...
+View Notes & Marks	הצד הערות וסימונים
+Your Bookmarks ({0,number,integer})	הסימניות שלך ({0,number,integer})
+Your Highlights ({0,number,integer})	הסימונים שלך ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	הערות וסימונים שלך ({0,number,integer})
+Your Notes ({0,number,integer})	הערות שלך ({0,number,integer})
+Yours	שלך
+{0,number,integer} of {1,number,integer}	{0,number,integer} מתוך {1,number,integer}
+{0} highlighted this passage.	{0} סימנו הקטע הזה.#or#{0} סימנו קטע זה
+{0} · Page {1} - {2}	{0} · עמוד {1} - {2}
+{0}’s Highlight	 הסימון של {0}#or#הסימון של {0}
+{0}’s Note	ההערה של {0}#or#הערה של {0}

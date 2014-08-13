@@ -1,18 +1,18 @@
-All Orders Submitted	
-Cancel	
-Choosing an item automatically turns off Aeroplane Mode.	
-Details for this advert are no longer available.	
-In order to purchase Special Offers, you must first register your Kindle to an Amazon account.	
-More Special Offers are available.~~Please connect wirelessly to download the latest Special Offers	
-More Special Offers are available.~~Please register your Kindle to receive the latest Special Offers	
-Orders Pending ({0, number, integer})	
-Orders Pending: You must connect to Amazon to complete your purchases.	
-Page {0,number,integer} of {1,number,integer}	
-Register	
-Registration Required	
-Special Offers and Sponsors ({0, number, integer})	
-Tap to connect to Amazon now and complete your orders listed below.	
-Tap to view all Special Offers	
-Tap to view all orders pending.	
-Unable to Connect	
-We are unable to complete your orders at this time. Please try again later.	
+All Orders Submitted	כל בבזמנות הוגשו
+Cancel	בטל#or#ביטול
+Choosing an item automatically turns off Aeroplane Mode.	בחירת מוצר תכבה באופן אוטומטי מצב טיסה
+Details for this advert are no longer available.	פרטים למודעה זו אינם זמינים עוד.#or#פרטים על הפרסומת כבר אינם זמינים
+In order to purchase Special Offers, you must first register your Kindle to an Amazon account.	בכדי לרכוש הצעות מיוחדות, הקינדל שלך חייב להיות רשום בחשבון אמזון
+More Special Offers are available.~~Please connect wirelessly to download the latest Special Offers	עוד הצעות מיוחדות זמינים.~~אנא התחבר לאלחוטי כדי לקבל ההצעות המיוחדות האחרונים
+More Special Offers are available.~~Please register your Kindle to receive the latest Special Offers	עוד הצעות מיוחדות זמינים.~~אנא הרשם קינדל שלך כדי לקבל ההצעות המיוחדות האחרונים
+Orders Pending ({0, number, integer})	הזמנות ההמתנה ({0, number, integer})
+Orders Pending: You must connect to Amazon to complete your purchases.	הזמנות בהמתנה. נדרש להתחבר לאמזון להשלים השכישות שלך.
+Page {0,number,integer} of {1,number,integer}	דף {0,number,integer} מתוך {1,number,integer}#or#עמוד {0,number,integer} מתוך {1,number,integer}
+Register	הרשם
+Registration Required	נדרש הרשמה
+Special Offers and Sponsors ({0, number, integer})	הצעות מיוחדות וספונסרים ({0, number, integer})
+Tap to connect to Amazon now and complete your orders listed below.	הקש להתחבר לאמזון עכשיו ולהשלים ההזמנות שמוצגים למטה.
+Tap to view all Special Offers	הקש להציג כלל ההצעות המיוחדות
+Tap to view all orders pending.	הקש להציג כל ההזמנות בהמתנה.
+Unable to Connect	לא ניתן להתחבר
+We are unable to complete your orders at this time. Please try again later.	לא ניתן להשלים ההזמנות שלך כעת. אנא נסה שוב מאוחר יותר.

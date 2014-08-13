@@ -1,2 +1,2 @@
-{0,select, location {Back to loc {1}} page {Back to page {1}} other {Back to {1}}}	
-{0,select, location {Forward to loc {1}} page {Forward to page {1}} other {Forward to {1}}}	
+{0,select, location {Back to loc {1}} page {Back to page {1}} other {Back to {1}}}	{0,select, location {חזרה למיקום {1}} page {חזרה לעמוד {1}} other {חזרה ל {1}}}
+{0,select, location {Forward to loc {1}} page {Forward to page {1}} other {Forward to {1}}}	{0,select, location {קדימה למיקום {1}} page {קדימה לעמוד {1}} other {קדימה ל {1}}}

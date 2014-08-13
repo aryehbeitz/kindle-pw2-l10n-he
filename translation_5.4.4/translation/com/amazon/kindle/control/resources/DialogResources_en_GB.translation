@@ -1,9 +1,9 @@
-Authors starting with:	
-Device Time	
-Go To	
-Go	
-Hint	
-Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	
-Select Child	
-Set Automatically	
-Titles starting with:	
+Authors starting with:	מחברים שמתחילים עם:
+Device Time	זמן המכשיר
+Go To	עבור#or#עבור אל
+Go	סע
+Hint	רמז
+Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	 עמוד מספר (1 עד {0, choice, 0#1|1#{0,number,integer}}):
+Select Child	בחר ילד
+Set Automatically	הגדר אוטומטי#or#להגדיר באופן אוטומטי
+Titles starting with:	כותרות שמתחילים עם:
