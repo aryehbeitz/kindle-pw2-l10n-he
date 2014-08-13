@@ -1,4 +1,4 @@
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Close	סגור
 Connection Required	נדרש חיבור
 Edit	ערוך
@@ -7,7 +7,7 @@ Menu	תפריט
 OK	אישור
 Register	הרשם
 Remove	הסר
-Shop in Kindle Store	לחנות קינדל#or#לקניות בחנות קינדל
+Shop in Kindle Store	לקניות בחנות קינדל
 This action requires wireless to be turned on.	נדרשת אלחוטית מופעלת לפעולה זו.
 Turn Off Wireless	כבה אלחוטי
 Turn On Wireless	הפעל אלחוטי

@@ -3,25 +3,25 @@ Advanced	מתקדם
 Are you sure you want to forget the Wi-Fi network "{essid}"?	בטוח לשכוח את רשת אלחוטי "{essid}"?
 Available Networks	רשתות זמינות
 CA Certificate	תעודת CA
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Connect	התחבר
-Connected	התחבר#or#מחובר
+Connected	מחובר
 Connecting	מתחבר
 Connection Failed	התחברות נכשלה
 Connection Type	סוג חיבור
 DHCP	DHCP
 DNS	DNS
 Disconnect	התנתק
-Done	בוצע#or#סיום#or#סיים
+Done	סיים
 EAP Method	EAP Method
 Enter Again	הקש שוב
 Enter Other Wi-Fi Network	הקש רשת אלחוטי אחר
 Enter Wi-Fi Network	הקש רשת אלחוטי
 Enterprise	Enterprise
-Error	שגיעה#or#תקלה
+Error	תקלה
 Forget Network?	ששכת רשת?
 Forget	תשכח
-Hide Password	הסתר סיסמא#or#הסתר סיסמה
+Hide Password	הסתר סיסמא
 IP Address	כתובת IP
 Incorrect Password	סיסמא שגוייה
 MSCHAPv2	MSCHAPv2
@@ -36,7 +36,7 @@ PEAP	PEAP
 Password Too Long	סיסמא ארוך מדי
 Password Too Short	סיסמא קצר מדי
 Password	סיסמא
-Personal	Personal#or#אישי
+Personal	אישי
 Phase 2 Authentication	Phase 2 Authentication
 Rescan	לסרוק מחדש
 Router	נתב
@@ -49,7 +49,7 @@ Static	Static
 Subnet Mask	Subnet Mask
 TTLS	TTLS
 The security certificate cannot be located. Please verify that the name is correct and try again.	לא ניתן לאתר תעודת האבטחה. אנא ודא שהשם הוא נכון ונסה שוב.
-Try Again	נסה שוב#or#נסה שנית
+Try Again	נסה שוב
 Unable to Find Certificate	לא ניתן למצוא התעודה
 Unable to delete profile for Wi-Fi network "{essid}".	לא ניתן למחוק פרופיל לשרת אלחוטי "{essid}".
 Unable to set up the Wi-Fi network "{essid}". The network information you entered is incomplete. Please check network configuration and try setting up the network again. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support.	אין אפשרות להגדיר רשת אלחוטי "{essid}". המידע ברשת שהזנת אינו שלם. בדוק את תצורת רשת ולנסות להקים את הרשת שוב. אם יש לך בעיות חיבור קינדל שלך ל-אלחוטי, אתה יכול למצוא עזרה ב www.kindle.com/support.

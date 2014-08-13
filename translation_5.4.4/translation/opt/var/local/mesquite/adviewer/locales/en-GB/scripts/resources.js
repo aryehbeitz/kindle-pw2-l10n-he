@@ -1,11 +1,11 @@
 Close	סגור
-Details for this advert are no longer available. Turn on wireless to receive the latest content.	פרטים למודעה זו אינם זמינים עוד. הפעל אלחוטי כדי לקבל את התוכן העדכני ביותר.
-Details for this advert are no longer available.	פרטים למודעה זו אינם זמינים עוד.#or#פרטים על הפרסומת כבר אינם זמינים
+Details for this advert are no longer available. Turn on wireless to receive the latest content.	פרטים לפרסומת זו אינם זמינים עוד. הפעל אלחוטי כדי לקבל את התוכן העדכני ביותר.
+Details for this advert are no longer available.	פרטים על הפרסומת כבר אינם זמינים
 Device Not Registered	מכשיר לא רשום
-Error	שגיעה#or#תקלה
+Error	תקלה
 Offer Expired	הצעה פג תוקף
 Order Cancelled	הזמנה בוטלה
-Parental Controls are enabled on your Kindle. Purchases are not allowed.	בקרת הורים מופעלות על הקינדל שלך. רכישות אינן מאושרות.#or#בקרת הורים מופעלת על קינדל שלך. רכישות לא מורשות.
+Parental Controls are enabled on your Kindle. Purchases are not allowed.	בקרת הורים מופעלות על הקינדל שלך. רכישות אינן מאושרות.
 Please connect wirelessly to download the latest Special Offers. New offers will display automatically when available.	נא להתחבר באופן אלחוטי כדי להוריד את העדכונים האחרונים של ההצעות מיוחדות. הצעות חדשות תציגו באופן אוטומטי כאשר תהיו זמינות.
 Please register your Kindle to receive the latest Special Offers. New offers will display automatically when available.	נא הרשם הקינדל שלך כדי להוריד את העדכונים האחרונים של ההצעות מיוחדות. הצעות חדשות תציגו באופן אוטומטי כאשר תהיו זמינות.
 Purchase Limit Reached	תקרת רכישות הגיע
@@ -20,7 +20,7 @@ We are unable to process your request. Please try again later.	אין באפשר
 You already have {count} order(s) pending for this special offer.	כבר יש {count} הזמנות הממתינות עבור הצעה מיוחדת זו.
 You have other orders pending. Click here to view	יש לך הזמנות אחרות התלויות ועומדות. לחץ כאן לצפייה
 You have successfully cancelled your order for {dealTitle} from {merchantName}. Your credit card was not charged.	בטלת בהצלחה את ההזמנה עבור {dealTitle} מ {merchantName}. כרטיס האשראי שלך לא יחויב.
-You must register your Kindle to make a purchase.	אתה חייב לרשום את קינדל שלך כדי לבצע רכישה.#or#קינדל שלך חייבת להיות רשומה כדי לבצע רכישה.
+You must register your Kindle to make a purchase.	קינדל שלך חייבת להיות רשומה כדי לבצע רכישה.
 Your order will be placed when you connect to wireless.	ההזמנה שלך תתבצע בעת חיבור לאלחוטי.
 Your purchase could not be completed. This offer has expired.	הרכישה שלך לא ניתן להשלים. הצעה זו פגה.
 Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	הרכישה שלך לא ניתן להשלים. אנו נתקלים בקשיים טכניים. אנא נסה שוב מאוחר יותר.

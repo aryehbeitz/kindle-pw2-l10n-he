@@ -1,3 +1,3 @@
-Connected	התחבר#or#מחובר
+Connected	מחובר
 Connecting	מתחבר
  · 	 · 

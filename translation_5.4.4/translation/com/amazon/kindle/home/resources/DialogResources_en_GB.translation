@@ -1,8 +1,8 @@
 Author	מחבר
 Collection Name	שם אוסף
-Edit Kana	ערוך קאנא#or#ערוך קאנה
-Edit Pronunciation	ערוך הגייה#or#עריכת הגייה
+Edit Kana	ערוך קאנא
+Edit Pronunciation	ערוך הגייה
 The collection name that you entered already exists. Please enter a different name.	שם האוסף שהזנת כבר קיים. נא להזין שם אחר.
 Title Pronunciation	הגיית הספר
-Title	כותרת#or#שם הספר
+Title	כותרת
 {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {אין פריטים} one {{0,number,integer} פריט} other {{0,number,integer} פריטים}}

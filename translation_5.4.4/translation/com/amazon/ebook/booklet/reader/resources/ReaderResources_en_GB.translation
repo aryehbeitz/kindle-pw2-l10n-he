@@ -29,8 +29,8 @@ Incorrect Password	סיסמא שגוייה
 Incorrect password. Please try again.	סוסמא סגוייה, נסה שוב
 Lightest	הכי כהה
 Line spacing	מרווח שורות
-Loc {0} of {1}	מיקום {0} מתוך {1}
-Loc {0}	 מיקום {0}#or#מיקום {0}
+Loc {0} of {1}	מק {0} מתוך {1}
+Loc {0}	 מק {0}
 Location	מיקום
 Lock Rotation	נעילת סיבוב
 Low Memory	זכרון נמוך
@@ -41,7 +41,7 @@ Normal	רגיל
 Note	הערה
 Page 	עמוד
 Page or Location	עמוד או מיקו
-Page {0} of {1}	עמוד {0} מיתוך {1}#or# עמוד {0} מתוך {1}#or#עמוד {0} מתוך {1}
+Page {0} of {1}	עמוד {0} מיתוך {1}
 Page {0}	עמוד {0}
 Password-Protected	דמור על ידי סיסמא
 Publisher Font	גופן המוציר לאור
@@ -53,14 +53,14 @@ Shared Notes & Highlights	הערות וסימונים משותפים
 Shop in Kindle Store	לחנות קינדל
 Submit	שלח
 Sync Results	סינכרון תוצאות
-Sync to Furthest Page Read	סנכרון לדף הרחוק ביותר שקראת#or#סנכרן לעמור הרחוקה שנקרא
+Sync to Furthest Page Read	סנכרן לעמור הרחוקה שנקרא
 Sync	סנכרון
 Table of Contents	תוכן העניינים
 Table of Contents...	תוכן העניינים...
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	אין זיכרון הקינדל מספיק כדי להוסיף או לערוך הערות או סימנים על מסמך זה. בבקשה לעשות יותר זיכרון הקינדל זמין על ידי הסרת תוכן מהמסך הבית.
 This PDF is password-protected.	הקובץ PDF מוגן על ידי סיסמא
 To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	כדי לסנכרן להדף הרחוקה, גיבוי ההערות חייב להיות מופעל. עבור להגדרות מהתפריט במסך הבית, בחר אפשרויות הקראה, ולאחר מכן גיבוי ההערות.
-Unable to Sync	אין אפשרות לסינכרון#or#לא ניתם לסנכרן#or#לא ניתן לסנכרן
+Unable to Sync	לא ניתן לסנכרן
 Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	לא ניתן לאחזר את קריאת המיקום המרוחקת. אם זו הפעם הראשונה שפתחת את הספר הזה, המכשיר שלך יעדכן את המיקום שלך כאשר אתה סוגר את הספר או כאשר המכשיר שלך הולך לישון.
 Unlock Rotation	בטל נעילת סיבוב
 View Note	הצג הערה

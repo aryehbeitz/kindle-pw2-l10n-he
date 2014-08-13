@@ -1,5 +1,5 @@
 Go	סע
-My Items	הפריטים שלי#or#פריטים שלי
+My Items	הפריטים שלי
 Search	חיפוש
 http://baike.baidu.com/search/word?&pic=1&enc=utf8&word=	http://baike.baidu.com/search/word?&pic=1&enc=utf8&word=
 http://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=	http://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=

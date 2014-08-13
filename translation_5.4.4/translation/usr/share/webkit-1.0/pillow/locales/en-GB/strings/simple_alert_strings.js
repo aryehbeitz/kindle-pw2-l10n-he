@@ -5,7 +5,7 @@ An unexpected error has occurred. This can happen if you recently disconnected y
 An update is available for the following fonts: ({language}). Your Kindle must restart to complete the update.	עדכון זמין עבור הגופנים הבאים: ({language}). קינדל צריך להפעיל מחדש כדי להשלים את העדכון.
 Application Error	שגיאת יישום
 Battery Level is Low	רמת הסוללה היא נמוכה
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Close	סגור
 Cloud Locked	ענן נעול
 Debugging Scripts	סקריפטים לניפוי שגיאות
@@ -17,7 +17,7 @@ Device Not Registered	מכשיר לא רשום
 Device Reset Pending	איפוס מכשיר תלוי ועומד
 Device Restart Pending	הפעלת מכשיר מחדש תלוי ועומד
 Error Starting Content	שגיאה בהתחל תוכן
-Error	שגיעה#or#תקלה
+Error	תקלה
 Extended debugging scripts are currently enabled	Extended debugging scripts are currently enabled
 Framework Error	שגיעת תשתית
 Goodreads on Kindle Locked	Goodreads נעולה בקינדל
@@ -32,7 +32,7 @@ Offer Expired	הצעה פג תוקף
 Parental Controls are enabled on your Kindle. Access to Cloud is locked.	בקרת הורים מופעלות על קינדל שלך. גישה לענן נעולה.
 Parental Controls are enabled on your Kindle. Access to Goodreads on Kindle is locked.	בקרת הורים מופעלות על קינדל שלך. גישה ל Goodreads על הקינדל נעול.
 Parental Controls are enabled on your Kindle. Kindle Store is locked.	בקרת הורים מופעלות על הקינדל שלך. חנות קינדל נעולה.
-Parental Controls are enabled on your Kindle. Purchases are not allowed.	בקרת הורים מופעלות על הקינדל שלך. רכישות אינן מאושרות.#or#בקרת הורים מופעלת על קינדל שלך. רכישות לא מורשות.
+Parental Controls are enabled on your Kindle. Purchases are not allowed.	בקרת הורים מופעלות על הקינדל שלך. רכישות אינן מאושרות.
 Parental Controls are enabled on your Kindle. Web Browser is locked.	בקרת הורים מופעלות על קינדל שלך. דפדפן אינטרנט הוא נעול.
 Please select from the following options:	אנא בחר מבין האפשרויות הבאות:
 Power	הפעלה
@@ -40,7 +40,7 @@ Purchase Limit Reached	תקרת רכישות הגיע
 Purchases Pending	רכישות בהמתנה
 Purchasing Locked	רכישות נעול
 Restart Required	נדרש הפעלה מחדש
-Restart	הפעלה מחדש#or#הפעל מחדש
+Restart	הפעל מחדש
 Restarting your Kindle	מפעיל הקינדל שלך מחדש
 Screen Off	כבה מסך
 Settings Menu Locked	תפריט הגדרות נעול
@@ -70,7 +70,7 @@ This is a managed device. Web Browser is locked. For information, contact: {cont
 This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.	זהו מכשיר מנוהל. תצורת הגדרות אלחוטי נעולה. לקבלת מידע, פנה: {contactInfo}.
 To play MP3 files, you must first copy them from your computer to the "music" folder on your Kindle.	לנגן קבצי MP3, אתה צריך קודם כל להעתיק אותם מהמחשב לתיקיית "music" על קינדל שלך.
 Toggle Wireless Locked	החלף מצב אלחוטיות נעול
-Turn On Wireless?	הפעל אלחוטי?#or#כבה אלחוטי?
+Turn On Wireless?	הפעל אלחוטי?
 Unable to Open Content	אין אפשרות לפתוח תוכן
 Unable to enter shipping mode owing to battery level falling below permissible range.	אין אפשרות להיכנס למצב משלוח בשל רמת סוללה יורדת מתחת לטווח מותר.
 Unable to enter shipping mode owing to missing dictionaries or fonts.	אין אפשרות להיכנס למצב משלוח בשל מילונים או גופנים חסרים.
@@ -84,7 +84,7 @@ Wi-Fi Login Required	נדרש כניסה לרשת אלחוטית
 Wi-Fi Settings Locked	הגדרות אלחוטי נעול
 Wireless is turned off. Do you want to turn on wireless?	אלחוטיות כבוי. האם אתה רוצה להפעיל אלחוטי?
 You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	כבר {count,plural,=0 {אין הזמנות תלויות ועומדות} one {הזמנה אחת תלוי ועומד} other { # הזמנות תלויים ועומדים}} להצעה מיוחדת זו.
-You must register your Kindle to make a purchase.	אתה חייב לרשום את קינדל שלך כדי לבצע רכישה.#or#קינדל שלך חייבת להיות רשומה כדי לבצע רכישה.
+You must register your Kindle to make a purchase.	קינדל שלך חייבת להיות רשומה כדי לבצע רכישה.
 Your Kindle fonts are updating. This can take a moment...	גופני קינדל שלך מעדכנים. זה יכול לקחת רגע ...
 Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?	קינדל שלך הוא לא הצליח ליצור חיבור אלחוטי. האם לכבות מצב טיסה?
 Your battery is almost depleted and your Kindle will soon shut down. To continue using your Kindle, connect it to a power source.	סוללתך קרובה למיצוי וקינדל שלך יכבה בקרוב. כדי להמשיך להשתמש בקינדל שלך, חבר אותו למקור חשמל.

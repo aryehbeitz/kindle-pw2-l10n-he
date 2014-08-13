@@ -10,7 +10,7 @@ Searching Wikipedia...	מחפש בויקיפידיה...
 Turn Off Aeroplane Mode	כבה מצב טיסה
 Turn On Wireless	הפעל אלחוטי
 Unable to contact the server. Please try again later.	לא ניתן ליצור קשר עם השרת. אנא נסה שוב מאוחר יותר.
-Waiting for connection...	ממתין לחיבור#or#ממתין לחיבור...
+Waiting for connection...	ממתין לחיבור
 Wikipedia lookups are not available when using FreeTime.	לא ניתן לחפש בויקיפידיה במצב פריי-טיים.
 Wikipedia	ויקיפידיה
-Wireless must be turned on to use this feature.	אלחוטי חייב להיות מופעל כדי להשתמש בתכונה זו.#or#אלחוטי חייבת להיות מופעל כדי להשתמש בתכונה זו.
+Wireless must be turned on to use this feature.	אלחוטי חייב להיות מופעל כדי להשתמש בתכונה זו.

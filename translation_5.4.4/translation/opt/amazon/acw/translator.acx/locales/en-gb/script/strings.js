@@ -25,7 +25,7 @@ No text was selected for translation.	אין טקסט נבחר לתרגום.
 Norwegian	נורבגי
 Polish	פולני
 Portuguese	פורטוגזית
-Russian	רוסי#or#רוסית
+Russian	רוסית
 Slovak	סלובקי
 Spanish	ספרדית
 To:	ל:
@@ -37,5 +37,5 @@ Turn On Wireless	הפעל אלחוטי
 Ukrainian	אוקראיני
 Unable to contact the server. Please try again later.	לא ניתן ליצור קשר עם השרת. אנא נסה שוב מאוחר יותר.
 Unknown	לא ידוע
-Waiting for connection...	ממתין לחיבור#or#ממתין לחיבור...
-Wireless must be turned on to use this feature.	אלחוטי חייב להיות מופעל כדי להשתמש בתכונה זו.#or#אלחוטי חייבת להיות מופעל כדי להשתמש בתכונה זו.
+Waiting for connection...	ממתין לחיבור
+Wireless must be turned on to use this feature.	אלחוטי חייב להיות מופעל כדי להשתמש בתכונה זו.

@@ -5,22 +5,22 @@
 "{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	"{0}" לא ניתן להוריד, כי קינדל שלך אין לו מספיק זיכרון פנוי. אפשר לעשות יותר זיכרון קינדל זמין על ידי הסרת תוכן מהמסך הבית או לבטל את ההורדה.
 "{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	"{0}" לא ניתן להוריד, כי קינדל שלך איבד את החיבור לרשת. אפשר לבטל את ההורדה או לנסות להתחבר לרשת שוב.
 About Kindle FreeTime	אודות קינדל פריי-טיים
-About Vocabulary Builder	אודות אוסף אוצר המילים#or#אודות אוסף מילים#or#אודות אוצר המילים#or#על אוצר המילים
+About Vocabulary Builder	אודות אוסף אוצר המילים
 Aeroplane Mode	מצב טיסה
 Cancel Download	בטל הורדה
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Collections that appear in all views on this device are displayed with a star.	אוספים המופיעים בכל התצוגות על המכשיר הזה מוצגים עם כוכב.
 Connect	התחבר
 Content Not Synced	תוכן אינה מסונכרן
 Delete This Audiobook	מחוק ספר אודיו זה
-Delete This Blog	מחוק בלוג זה#or#מחק בלוג זה
+Delete This Blog	מחק בלוג זה
 Delete This Book	מחק ספר זה
 Delete This Collection	מחק אוסף זה
 Delete This Document	מחק מסמך זה
 Delete This Image Folder	מחק תיקיית תמונות זו
 Delete This Image Package	מחק חבילת תמונות זו
 Delete This Image	מחק תמונה זו
-Delete This Issue	מחק גיליום זה#or#מחק גיליון זה
+Delete This Issue	מחק גיליום זה
 Delete This Item	מחק פריט זה
 Delete This Letter	מחק מכתב זה
 Delete This MP3	מחק MP3 זה
@@ -33,15 +33,15 @@ Kindle FreeTime has been disabled and will no longer appear on your Home screen.
 Memory is Full	זכרון מלא
 Network Connection Failed	חיבור לרשת נכשלה
 Remove from Device	מחק ממכשיר
-Show Only in Collections	הצג בכל האוספים#or#הצג רק בתצוגם אוספים
-Show in All Views	הצג בכל התצוגות#or#הצג הכל התצוגות
+Show Only in Collections	הצג רק בתצוגם אוספים
+Show in All Views	הצג בכל התצוגות
 Tap to Open	הקש לפתןח
 This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	אוסף זה מסונכרן בכל המכשירים שלך ויימחק על כולם. ~~ ~~ מחיקת אוסף אינו מסירה את התוכן מאוחסן במכשיר שלך או בענן. האם בטוח שברצונך למחוק את האוסף הזה?
 This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	אוסף זה תוכל לראות רק בתצוגת האוספים. בחר אוספים תחת פריטים שלי כדי לראות אותו. אפשר ללחוץ ולהחזיק על אוסף כדי לשנות את אפשרויות צפייה לאוסף זה.
 Turn Off FreeTime	כבה פריי-טיים
 Turn Off	כבה
-Turn On Wireless?	הפעל אלחוטי?#or#כבה אלחוטי?
-Unable to Sync	אין אפשרות לסינכרון#or#לא ניתם לסנכרן#or#לא ניתן לסנכרן
+Turn On Wireless?	הפעל אלחוטי?
+Unable to Sync	לא ניתן לסנכרן
 Vocabulary Builder Turned Off	אוצר מילים מכובה
 Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, and Vocabulary Builder.	אוצר המילים מכובה ולא תופיע עוד במסך הבית שלך. כדי להפעיל אותה, עבור להגדרות, אפשרויות, קריאה, ואוצר המילים.
 Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	אוצר המילים מסייע לך ללמוד מילות חדשות בזמן קריאה. ~~ ~~ מילות שתחפשו במילון תוך הקריאה מתווספות לאוצר מילים באופן אוטומטי. לאחר מכן נית להציג כרטיסיות זכרון או לסקור דוגמאות שימוש למילים אלה.

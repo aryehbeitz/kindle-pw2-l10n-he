@@ -4,7 +4,7 @@ Average Reading Time	זמן קריאה ממוצע
 Badges	תגים
 Beat your daily reading goal.~~Congratulations, you’ve read more than your daily reading goal.	השגת מטרת הקריאה היומית שלך. ~~ מזל טוב, שקראת יותר מ מטרת הקריאה היומית שלך.
 Beat your daily reading goal.~~{0, select, false{To earn this achievement, ask your parents to give you a daily reading goal.} other{Read for at least {1, plural, =0{{1, number, integer} minutes} one{{1, number, integer} minute} other{{1, number, integer} minutes}} today.}}	השגת מטרת הקריאה היומית שלך.~~{0, select, false{כדי להרוויח את ההישג הזה, בקש מההורים שלך לתת לך מטרת קריאה יומית.} other{קראו לפחות {1, plural, =0{{1, number, integer} דקות} one{{1, number, integer} דקה} other{{1, number, integer} דקות}} היום.}}
-Books	xprho#or#ספרים
+Books	ספרים
 Bookworm {0,choice,0#|2#({0,number,integer})}	תולעת ספרים {0,choice,0#|2#({0,number,integer})}
 Challenges ({0,number,integer})	אתגרים ({0,number,integer})
 Congratulations, you’ve finished a book.	כל הכבוד, סיימת את הספר.

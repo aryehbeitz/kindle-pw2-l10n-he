@@ -1,27 +1,27 @@
 <html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>כתובת MAC אלווטי</b>&nbsp;{1}<br/><b>מספר סיריאלי:</b>&nbsp;{2}<br/><b>יכולת רשת:</b>&nbsp;{3}<br/><b>גירסת פירמה:</b>&nbsp;{4}<br/><b>מקום פנוי:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB פנוי}{5,select, 0 {} 1 {<br/><b>מס. פוליסה:</b>&nbsp;{6}} other{}}</html>
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Deregister Your Kindle	בטל הרשמה לקינדל שלך
 Deregister	בטל הרשמה
 Deregistering Your Kindle…	מבטל הרשמה לקינדל שלך…
 Device Info	מידע על המכשיר
-Device Name	שם המכשיר#or#שם מכשיר
+Device Name	שם המכשיר
 E-mail Address	
 Enter your Amazon account information.	הזינו את פרטי חשבון אמזון שלך.
 First Name	שם פרטי
 Gender	מין
-Hide Password	הסתר סיסמא#or#הסתר סיסמה
+Hide Password	הסתר סיסמא
 Password	סיסמא
 Personalise your Kindle by giving it a name that appears on the Home screen.	קבע שם שתופיע במסך הבית.
 Register Your Kindle	הרשם הקינדם שלך
 Register	הרשם
-Registering Your Kindle…	מבצע הרשמה לקינדל שלך…#or#רושם קינדל שלך…
+Registering Your Kindle…	מבצע הרשמה לקינדל שלך…
 Registration Failed	הרשמה נכשלה
 Registration Help	עזרה בהרשמה
 Save	שמור
 The e-mail address and password you entered do not match any Amazon accounts on record. Please make sure that you have correctly entered the e-mail address associated with your Amazon account. For further details please contact Kindle Customer Service at www.kindle.com/support.	
 There was an error whilst deregistering your device. Please try again later.	חלה שגיאה תוך ביטול הרשמה בהמכשיר שלך. אנא נסה שוב מאוחר יותר.
 There was an error whilst registering your Kindle. Please try again later.	חלה שגיאה תוך הרשמה בהמכשיר שלך. אנא נסה שוב מאוחר יותר.
-Try Again	נסה שוב#or#נסה שנית
+Try Again	נסה שנית
 Unable to Connect	לא ניתן להתחבר
 Unavailable	לא זמין
 Unlink Account	

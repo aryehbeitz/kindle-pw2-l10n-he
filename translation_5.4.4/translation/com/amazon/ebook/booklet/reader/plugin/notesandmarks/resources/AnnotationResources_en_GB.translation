@@ -27,7 +27,7 @@ Your Notes & Marks ({0,number,integer})	הערות וסימונים שלך ({0,n
 Your Notes ({0,number,integer})	הערות שלך ({0,number,integer})
 Yours	שלך
 {0,number,integer} of {1,number,integer}	{0,number,integer} מתוך {1,number,integer}
-{0} highlighted this passage.	{0} סימנו הקטע הזה.#or#{0} סימנו קטע זה
+{0} highlighted this passage.	{0} סימנו קטע זה
 {0} · Page {1} - {2}	{0} · עמוד {1} - {2}
-{0}’s Highlight	 הסימון של {0}#or#הסימון של {0}
-{0}’s Note	ההערה של {0}#or#הערה של {0}
+{0}’s Highlight	 הסימון של {0}
+{0}’s Note	ההערה של {0}

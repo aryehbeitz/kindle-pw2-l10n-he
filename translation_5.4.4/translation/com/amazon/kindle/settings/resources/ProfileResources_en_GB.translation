@@ -2,7 +2,7 @@ Access Achievements	גישה להישגים
 Add Items	הוסף פריטים
 All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	כל ההתקדמות וההישגים ייאבדו עם מחיקה.הפרופיל גם לא יהיה זמין במכשירים אחרים. האם אתה בטוח שברצונך למחוק {0, select, male {הפרופיל של <em>{1}</em>} female {הפרופיל של <em>{1}</em>} other {הפרופיל של <em>{1}</em>}}?
 All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?	כל ההתקדמות וההישגים ייאבדו עם מחיקה.הפרופיל גם לא יהיה זמין במכשירים אחרים. האם בטוחים למחוק את {0, select, male {הפרופיל של <em>{1}</em> profile} female {<em>{1}ʼs</em> profile} other {הפרופיל של <em>{1}ʼ/em>}}?
-Cancel	בטל#or#ביטול
+Cancel	בטל
 Daily Reading Goal	יעד קריאה יומית
 Date of Birth	תאריך לידה
 Delete Profile	מחק פרופיל

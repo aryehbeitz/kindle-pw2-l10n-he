@@ -12,5 +12,5 @@ You do not have any notes or highlights.	לא קיים הערות או סימו�
 Yours	שלך
 {0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	{0,plural,=0 {} =1 {1 מסמן} other {{0,number,integer} מסמנים}}
 {0,select, false{Page {1}} true{Loc {1}} other {}}	{0,select, false{עמוד {1}} true{מיקום {1}} other {}}
-{0}’s Highlight	 הסימון של {0}#or#הסימון של {0}
-{0}’s Note	ההערה של {0}#or#הערה של {0}
+{0}’s Highlight	 הסימון של {0}
+{0}’s Note	ההערה של {0}

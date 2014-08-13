@@ -1,11 +1,11 @@
-+ Follow	+ עקוב#or#עקוב
++ Follow	עקוב
 Add Amazon Books 	הוסף ספרי אמזון 
 All Reviews	כל חוות הדעת
 Are you sure you want to delete this comment?	האם בטוח שברצונך למחוק תגובה זו?
-Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	האם בטוח שהיית רוצה להסיר את {0} מהרשימה החברים שלך? חברים אינם מודעים כאשר מסירים אותם.#or#האם בטוח שהיית רוצה להסיר את {0} מהרשימה החברים שלך? חברים אינן מודעים כאשר מסירים אותם.
-Cancel	בטל#or#ביטול
-Currently Reading ({0,number,integer})	כרגע קורא ({0,number,integer})#or#קורא כעת ({0,number,integer})
-Currently Reading ({0})	כרגע קורא ({0})#or#קורא כעת ({0})
+Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	האם אתה בטוח שאתה רוצה להסיר את {0} מרשימת החברים שלך? חברים אינם מודעים כאשר מסירים אותם.
+Cancel	בטל
+Currently Reading ({0,number,integer})	קורא כעת ({0,number,integer})
+Currently Reading ({0})	ורא כעת ({0})
 Delete Comment	מחק הערה
 Delete	מחק
 Edit	ערוך
@@ -13,7 +13,7 @@ Find Readers to Follow 	מצא קוראים לעקוב אחריהם 
 Follow	עקוב
 Followers ({0})	עוקבים ({0})
 Followers	עוקבים
-Following ({0})	עוקב ({0})#or#עוקב אחרי ({0})
+Following ({0})	עוקב אחרי ({0})
 Following Reviews	עוקב חוות דעת
 Following	עוקב
 Friends ({0})	חברים ({0})
@@ -28,9 +28,9 @@ Recent Updates by {0}	עדכונים אחרונים של {0}
 Remove Friend	הסר חבר
 See More 	ראה עוד 
 Share	שטף
-Shelved Books ({0,number,integer})	ספרים במדף ({0,number,integer})#or#ספרים המדף ({0,number,integer})
+Shelved Books ({0,number,integer})	ספרים במדף ({0,number,integer})
 Shelved Books ({0})	ספרים במדף ({0})
-Stop Following	הפסק עקוב#or#הפסק עקוב אחרי
+Stop Following	הפסק עקוב אחרי
 Suggested	המליץ
 Updates	עדכונים
 Want to Read ({0,number,integer})	רוצה לקרוא ({0,number,integer})

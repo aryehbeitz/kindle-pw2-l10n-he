@@ -10,7 +10,7 @@ Dates	תאריכים
 Entire Book	כל הספר
 Equations	משוואות
 Events	אירועים
-Full Wikipedia Article	מאמר ויקיפדיה מלא#or#מאמר ויקיפידיה מלא
+Full Wikipedia Article	מאמר ויקיפדיה מלא
 Highlights	סימונים
 Holidays	חגים
 Hotels	מלונות
@@ -18,7 +18,7 @@ Ingredients	מרכיבים
 Location ${location}	מיקום ${location}
 Locations ${start} - ${end}	מקומות ${start} - ${end}
 Monsters	מפלצות
-More on Shelfari	עוד ב Shelfari#or#עוד בשלפארי
+More on Shelfari	עוד ב Shelfari
 More	עוד
 Organisations	ארגונים
 Page ${page}	עמוד ${page}
