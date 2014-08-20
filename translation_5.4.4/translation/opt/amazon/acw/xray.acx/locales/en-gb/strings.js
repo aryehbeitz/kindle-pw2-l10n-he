@@ -34,7 +34,7 @@ See more about this book.	ראה עוד על הספר הזה.
 Showing ${range} of ${total}	מראה ${range} מתוך ${total}
 Spells	לחשים
 Subject to a <span class="license">Creative Commons Licence</span>	בכפוף ל <span class="license">Creative Commons Licence</span>
-Terms	תנאים
+Terms	מונחים
 Theorems	תיאוריות
 This book does not contain X-Ray concepts.	ספר זה אינו מכיל מושגי אקס-ריי.
 This chapter does not contain X-Ray concepts.	פרק זה אינו מכיל מושגי אקס-ריי.
